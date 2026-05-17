@@ -1,0 +1,246 @@
+{
+  "_translation_notes": [
+    "Pulaar translation — DRAFT. Please review with Mike Ba before publishing.",
+    "This is the Pulaar of Futa Tooro (northern Senegal/Mauritania) — the dialect of the Dagana/Saint-Louis belt.",
+    "Pulaar orthography follows the official Senegalese Latin-based standard.",
+    "Moringa in Pulaar: 'néböday' — sourced from Burkill's Useful Plants of West Tropical Africa (1985), JSTOR Global Plants, confirmed for Fula-Pulaar and Toucouleur communities in Senegal.",
+    "Agricultural vocabulary sourced from Peace Corps Pulaar resources and Fula language research materials.",
+    "Terms flagged VERIFY WITH MIKE require native speaker confirmation, especially noun class agreements.",
+    "Pulaar has a complex noun class system (about 20 classes). Class markers vary by noun category.",
+    "Duckweed, Azolla, Spirulina: no documented Pulaar common names found — descriptive phrases used.",
+    "French and Arabic loanwords retained where no Pulaar equivalent is documented."
+  ],
+  "lang": "ff",
+  "dir": "ltr",
+  "lang_label": "Làmmbé",
+  "hero_tag": "Takko Ganndal · Dundal Ganthiakh",
+  "hero_title": "Ceerugol <em>Tinndirgol Leydi</em><br>e Saare Senegaal yu Woɗɗii",
+  "hero_name_pulaar": "Wuurnu Lekki, Lekki Wuurnuma",
+  "hero_sub": "Tabitingol ganndal e dente yu ɓuttii e ñiɓɓol mbinndanɗe ngam dartagol ɓiɗɗo ɗiɗo e ndiyam — e ko ganndal hoolaaki ko waawi jeyeede duuɓi.",
+  "hero_meta_date": "Liggeeji Avrilu 2026",
+  "hero_meta_subjects": "Ko faati: Néböday · Nanndu ndiyam · Azolla · Spirulina",
+  "hero_meta_context": "Ko faati: Saare Senegaal e Pulaar e Wolof",
+  "hero_meta_cc": "CC BY-NC 4.0",
+  "toc_title": "Jontere nder deftere ndee",
+  "toc_items": [
+    "Ɓerɗe buuɗuki — ko Senegaal leydi ngoni e nder hannde",
+    "Dente nay ɗee — ganndal, ɓiɗɗo e jibinannde",
+    "Ko ganndal hoolaaki — ko laatorii tan e ko waawi laatoraade",
+    "Diiwaan ooɓungol — noy dente ɗee ñamoondira e ɓeyda hannde",
+    "Laaboraaji dartagol — yantugol e ɓeydeeki",
+    "Jikke e teddungal — ko waawi walliteede e ko"
+  ],
+  "part1_label": "Cañce 1",
+  "part1_title": "Ɓerɗe Buuɗuki",
+  "part1_body1": "Senegaal leydi ngoli saare — ɓe ngona nder Kolda, Matam, Tambacounda e Kaffrine — ngona e ɗiɗi ɓerɗe baaɗi. Nokkuuji adunankooji ladde maayo Senegaal ɓurii ɗo jokkondirde e ndiyam. Ko 3% rekk garɗo ngesa ngoni e sisteem ñannaango, kono faa haa miliyoŋ ɗiɗi hekaare mawɗi paabi ngesa ngoni. Liggeeji ngesa ngam ngorotoori ley mawnde na wuuri to bannge ɗiɗi jarige.",
+  "part1_body2": "Ko ɗum addana ɗum laaboruɗe e fannu nanngu ganndal woni: ɓerɗe ɗee ko <em>ɓerɗe ganndal</em> wonaa ɓerɗe safaara tan. Ñaawooje ngam dartaade suɗɗudi e ndiyam ngoni e leydi ngoni ɗoo, oo koyɗe, moɗanaaka, ganndanaaka, walla waɗaa fewre. Ko wonaa e fannu.",
+  "callout_label_thesis": "Ɓerɗe buuɗuki",
+  "callout_thesis": "« Sappo e ɗiɗi e teemeɗe Matam ngona e kañum ɓiɗɗo suuɗuki — kono néböday lekki ngoni yaltude nder leydi ndii, faa waawi nyaamde. Ɗuum wonaa ɓerɗe safaara. Ɓerɗe ganndal ndi. »",
+  "failure_modes_intro": "Coftal ɗee nafooje ngoni tabitaaɗe e ganndal e takkooji ngesa:",
+  "failure_modes": [
+    "Nyaamaari waɗata e ɓannge wumri coftal ñiɓɓol",
+    "Ndiyam waɗata e alkaali ɓuri selin kono ko ɓuuɓɓinaaji ngoni e leydi",
+    "Nyaamaari weendu jeyaaɗi jeyaa ko remooɓe ngaari, kono dente ndiyam yu ɓuri laɗɗi ngoni waawde heɓeede e mbottu",
+    "Leydi oo hoolaaki ngam ngesa gooto, kono dente ñiɓɓol azote ngoni e ngesa oo tawee gaa weedooji tan",
+    "Ngesa nokkuure ngam tawde rekk kono ko yooɗi ndiyam rewindaani e dente yu ɓuri yaawde ngaari mbeewi saasone tati"
+  ],
+  "failure_modes_outro": "Dente nay ɗee takkooji nder takkooji nay ɗee, so sikkiima e junngude.",
+  "part2_label": "Cañce 2",
+  "part2_title": "Dente Nay Ɗee: Ganndal",
+  "part2_intro": "Dente ɗee peeje ngona toppitaaɗe ngam: (a) tabitaaɗe nder Afrik, (b) laaboruɗe e safaara ɓurnde yoornude, (c) nyaamaari walla ngesa e ñalɗi, wonaa duuɓi, e (d) ñamoondira so waɗiraa sisteem.",
+  "plants": {
+    "moringa": {
+      "name": "Moringa oleifera",
+      "local": "Néböday (pulaar/wolof) · woni e Senegaal hannde",
+      "stats": [
+        ["Laabi (koɗon seeɗaɗo)", "25–30%"],
+        ["Vitamiini A (cuillère à soupe)", "~100% AJR ɓiɗɗo"],
+        ["Sahaa faa harvest", "~3 lewru"],
+        ["Farfitaare nder teeŋki", "Mawndi"],
+        ["Jeyaari ndiyam", "Suuɗuki (doggol ɓuurngo)"],
+        ["Moƴƴingol ndiyam", "Ɗoo (ñebbe dente)"]
+      ]
+    },
+    "duckweed": {
+      "name": "Lemna / Wolffia spp.",
+      "local": "Dente ndiyam — ngoni nder ndiyam [VERIFY WITH MIKE: no documented Pulaar name]",
+      "stats": [
+        ["Laabi (seeɗaɗo)", "35–45%"],
+        ["Double biomasse", "Ñalɗi ɗiɗi ci tati"],
+        ["Leydi haaɓunde", "Suuɗuki (bannge ndiyam)"],
+        ["Ndiyam wumral", "Mawɗo (bioremediation)"],
+        ["Nyaamaari liɗɗi", "Moƴƴi"],
+        ["Jeyaari nder adunankooji", "Asii Worgo (Wolffia)"]
+      ]
+    },
+    "azolla": {
+      "name": "Azolla pinnata",
+      "local": "Dente ndiyam — jeyaa Senegaal [VERIFY WITH MIKE: no documented Pulaar name]",
+      "stats": [
+        ["Laabi (seeɗaɗo)", "25–30%"],
+        ["Double biomasse", "Ñalɗi tati ci jowi"],
+        ["Azote ñiɓɓungol", "40–120 kg N/ha/duuɓi"],
+        ["Huuɓude engrais", "Huuɓude azote synthétique"],
+        ["Nyaamaari weendu", "Moƴƴi (ganndunde, liɗɗi)"],
+        ["Dartagol moosade", "Faa 90% larves"]
+      ]
+    },
+    "spirulina": {
+      "name": "Arthrospira platensis",
+      "local": "Spirulina — nyaamaari daande Tchad [VERIFY WITH MIKE: no documented Pulaar name]",
+      "stats": [
+        ["Laabi (seeɗaɗo)", "55–70%"],
+        ["Vitamiini B12", "Gooto e ɓuuɓɓooji dente"],
+        ["Ɓeydeeki installation", "Faayiɗi (control pH)"],
+        ["Harvest", "Kala ñalawma"],
+        ["Haaɓunde naange", "Mawɗo (Sahel)"],
+        ["Ɓeydeeki coolooji", "60–70%"]
+      ]
+    }
+  },
+  "moringa_title": "Néböday: Dente Ngoni Ɗoo Hannde",
+  "moringa_body1": "Ɗuum ko goonga mawɗo. Néböday woni e Senegaal. Jeyaama e nde wonaa ONG ardi — kono jeyaa fewre. Ko laatorii tan mooy: kaaƴe dente ndee nder ndiyam mbaɗata ɗiɗi walla tati laɓɓe, e jefde ndiyam ko ɓuri yaawnude. Ko ɗum defa ñebbe vitamiini A e suuɗuki laabi.",
+  "moringa_body2": "Jiɓɓol dente néböday — seeɗaaɗo e ɗaɓɓitere — siwtata vitamiini A 50 faa 70%, e mbaɗetee e nokkuure sauce walla thiéboudiène e cikka.",
+  "moringa_body3": "Ñebbe ɗee ko ɓalli wootere wuurdunde e moɗanaande. Jiɓɓol ñebbe ɗee, so ɓennginii nder ndiyam muusaɗo, naata coagulant naturel. Laabi ñebbe ɗee ñamoondira e coftal — argile, bacterie, toxin — e ɓeyda ñamoondiri e wuurnude. Kore mbi: 90 faa 99% impuretés ɓennii. Wonaa ko ɓura, kono e SODIS — ndiyam nder flakon plastik nder naange 6 waktu — naata ndiyam moƴƴi ngam galle e e safaara.",
+  "video_moringa_title": "Noy toppitaare néböday (vidiyo)",
+  "video_moringa_caption": "Demonstration toppitaare néböday ngam ɓeydeeki dente.",
+  "video_moringa_print": "Vidiyo: Toppitaare néböday — https://youtube.com/shorts/Ofs5fgws18k",
+  "duckweed_title": "Dente Ndiyam: Usine Gaawunde Laabi e Adunankaaji",
+  "duckweed_body1": "Dente ndiyam ɓeydii ɗiɗi biomasse am e ñalɗi ɗiɗi ci tati. Laabi am — 35 faa 45% seeɗaɗo — ɓuri soya (36%) e ñamoondira e legumineuse. Wolffia mooy dente mawnde mawɗe ngam nyaamaari aadee. Nder Afrik Fuɗnaange, jeyaari gariiɓunde mooy nyaamaari liɗɗi e ganndunde — mbaɗetee lekki jeyaaɗo nder marché.",
+  "duckweed_body2": "Dente ndiyam waawi bioremediation, siftina 85% azote e phosphate nder ndiyam wumral. Ndiyam yaltunde ngoo moƴƴii e naata cycle irrigation.",
+  "azolla_title": "Azolla: Engrais Yara e Bonus",
+  "azolla_body1": "Azolla pinnata jeyaa Afrik e Senegaal. Woni ɗoo hannde. Ko laatorii tan: remooɓe ngari ngoni toowii ko baawto rekk. Ñamoondire am e Anabaena azollae addana am siminnaade azote — naata engrais moƴƴo mbaɗetee e ñiɓɓol azote synthétique nder mbaalu mum. Kore ngoni gollaaɗe nder maayo Senegaal (Saint-Louis) tabitii.",
+  "azolla_body2": "E timmude ko faati e fertilisation, azolla jeyeende woni 20 faa 30% laabi. Ganndunooɓe nder Rwanda e Kenya jeyii ko ngoni e nyaamaari, e kori ɓeydeeki maɓɓe suuɗuki coolooji. Toppitaare: bassin suuɗuki walla fosse (20 faa 60 cm), ndiyam moƴƴo e culture souche. Ɓeydii ñalɗi tati faa jowi. Bonus: taɓɓorgal azolla e ndiyam suɗa 90% larves moosade — dartagol moosade ngam nyaamaari.",
+  "spirulina_title": "Spirulina: Jaɓɓaare e Suɗɗudi Mawndi",
+  "spirulina_body1": "Spirulina ko dente mawnde ñiɓɓunde nder nay ɗee. E 55 faa 70% laabi seeɗaɗo, e vitamiini B12, béta-carotène, fer e acides gras, cuillère à soupe gooto kala ñalawma taabitinii ɓeydeeki kono ɓiɓɓe ɓe ngoni e suuɗudi e ñalɗi seeɗaɗi. Système Intégré ci Farende, Togo (1987) taabitii e bannge village — bassin 100 m² waawi ɓeydeeki nyaamaari 100 ɓiɓɓe kala ñalawma.",
+  "spirulina_body2": "Spirulina nde ɓuuri tecnik. pH 8.5–11, heat 25–35°C — e Sahel — e kontrolu contamination. Naange e heat Sahel ko ɗoon baawnuɗe. Coolooji mbaɗetee 60 faa 70% e safaara lokkal.",
+  "video_spirulina_title": "Noy toppitaare spirulina nder saare (vidiyo)",
+  "video_spirulina_caption": "Guide pratique ngam toppitaare spirulina suuɗuki nder nokkuure tropical.",
+  "video_spirulina_print": "Vidiyo: Spirulina — https://youtu.be/S8xewXsM-lc",
+  "part3_label": "Cañce 3",
+  "part3_title": "Ko Ganndal Hoolaaki",
+  "part3_intro": "Ɗuum ko bilan ngenndi e ko laatorii tan ak ko ganndal e terrain taabitii waawi laatoraade.",
+  "table_headers": ["Bannge", "Ko laatorii tan", "Ko waawi laatoraade"],
+  "table_rows": [
+    [
+      "Toppitaare néböday",
+      "Kaaƴe dente ɗiɗi walla tati, jefde ndiyam. Suwa 60–80% vitamiini A. Dente jeyeende jeyaa so wonii.",
+      "Seeɗa dente e ɗaɓɓitere, jiɓɓo, yokko e sauce. Siwtata 50–70% vitamiini A. Cuillère à soupe wootere ~100% AJR vitamiini A ɓiɗɗo."
+    ],
+    [
+      "Ñaandu seeɗingol néböday",
+      "Seeɗaade nder naange ko laatorii. Suwa vitamiini A e UV.",
+      "Seeɗaade nder daaɓa siwtata 50–70% ak 20–40% nder naange. Safaara ɓurde. Daaɓa rekk."
+    ],
+    [
+      "Jeyaari ñebbe néböday",
+      "Ñebbe ngoni tewɗe walla jefaaɗe. Dente jeyaa ngam brise-vent rekk.",
+      "Jiɓɓol ñebbe sifinana 1 litre ndiyam muusaɗo e ~2 ñebbe. E SODIS, ndiyam moƴƴo — e safaara."
+    ],
+    [
+      "Toppitaare ndiyam",
+      "Ndiyam maayo walla caɗeeli nyaamaata e toppitaare. Walla alum cher. Ɓerɗe ndiyam ko mawɗe e suɗɗudi.",
+      "Coagulation néböday ñebbe + SODIS ngoni koo fuu, safaara ɓuurnde. Ganndal e 6 waktu naange rekk."
+    ],
+    [
+      "Toppitaare néböday",
+      "Dente ngoni e cikka, espacement mawndo e ombrage.",
+      "Toppitaare intensive (50 cm) ɓeyda dente to dente tawee to ɓuri 1 mètre. 4 faa 8 laabi bari biomasse e m²."
+    ],
+    [
+      "Ganndal Azolla",
+      "A. pinnata jeyaa, tawee e baawto rekk.",
+      "Bassin (fosse 20–60 cm) waaɗa lekki laabi kala ñalawma. Double ñalɗi tati faa jowi. Ñiɓɓo azote ngam irrigation."
+    ],
+    [
+      "Intrants mbaalu",
+      "Engrais azoté (DAP) jeyaa e jeyaari. Colo e chaîne approvisionnement.",
+      "Azolla intercalaire e mbaalu (Saint-Louis taabitii) huuɓuda azote synthétique, siwtata rendements."
+    ],
+    [
+      "Coolooji lekki weendu",
+      "Lekki commercial jeyaa. Cher, suɗɗudi weendu, ɓeydeeki suuɗuki.",
+      "Bassin dente ndiyam + azolla mbaɗetee e mbottu mbaɗetee e flakon mbaawi huuɓude 30 faa 80% lekki. Coolooji: feuille plastik e mbottu."
+    ],
+    [
+      "Triage suɗɗudi ɓiɓɓe",
+      "Suɗɗudi mawndi toppitaa e centres de santé e nyaamaari thérapeutique jeyaaɗo.",
+      "Toppitaare spirulina e bannge village (bassin 100 m² ɓeyda nyaamaari 100 ɓiɓɓe/ñalawma) taabitii e Togo, Burkina Faso, Mali."
+    ],
+    [
+      "Wumral leydi",
+      "Ngesa gooto suuwa leydi. Jachère, ñebbere koro e engrais chimiques.",
+      "Doggol néböday siwtata ndiyam e leydi. Azolla ɓeyda leydi wumraandi."
+    ],
+    [
+      "Dartagol moosade",
+      "Traitements chimiques, moustiquaires walla walaa. Paludisme ɓeyda suɗɗudi.",
+      "Taɓɓorgal azolla e ndiyam suɗa 90% larves moosade. Dartagol moosade yara ngam nyaamaari."
+    ]
+  ],
+  "part4_label": "Cañce 4",
+  "part4_title": "Diiwaan Ooɓungol",
+  "part4_intro": "Dente nay ɗee wonaa interventions e bannge — ngoni e sisteem nder boucle fermée fo sortie koo naata entrée koo. Ɗuum ko ganndal ɓesngu ONG ngoni yooɗinaani e yoɓtaade dente e bannge.",
+  "system_title": "Boucle fermée e bannge saare",
+  "system_nodes": [
+    ["Néböday", "Ñebbe + Dente"],
+    ["Bassin ndiyam", "Ndiyam coagulé, naange toppitii"],
+    ["Azolla/Dente ndiyam", "Ɓeydii e bannge ndiyam"],
+    ["Ganndunde/Liɗɗi", "Nyaamaata e dente ndiyam"],
+    ["Ndiyam wumral", "Dellee bassin, nyaamaata azolla"]
+  ],
+  "system_caption": "Azote ñiɓɓungol e azolla ɓeyda ndiyam irrigation ngesa. Jiɓɓol néböday yokkaa e nyaamaari ngesa ɗee. Bassin spirulina nyaamaata e ndiyam wees ɗee, harvest ngam toppitaare ɓiɓɓe. Sisteem oo jeyaa naange, ndiyam e dente.",
+  "part4_body": "Ko faati mawɗo: ndiyam naata connecteur. Goɗɗo ɗo ndiyam nder — walla borehole walla mare saisonnière — mbaɗetee toppitaa e ñebbe néböday, azolla e dente ndiyam e bannge ngam lekki, e alimenter bassin spirulina. Ko ɓurii ndiyam toppitaa, ko ɓuuri sisteem yaada. Ko sisteem yaadata, ko ɓuuri ndiyam hoolaaka ngam dente ndiyam e azolla ngoni e mares, suuɗa évaporation.",
+  "part5_label": "Cañce 5",
+  "part5_title": "Laaboraaji Dartagol",
+  "part5_intro": "Yantugol e laaboraaji e jangande ganndal. Tati ɗee ɓurnaaɗe mbaɗetee e guide illustrée e demonstration.",
+  "priorities": [
+    {
+      "title": "Wéccal ñaandu noy seeɗa e ndes dente néböday",
+      "body": "Ɗuum ko changement ɓurndo naafa e safaara tawde. Ko ina waawi nde nit mboolii: jokkude seeɗaade e naange, fuɗɗude seeɗaade e daaɓa. Carte illustrée wootere mbaawi tati nafu dente oo. Poolaaki: kala galle ngo ngoodi e néböday. Ñalnde: affiche wolof/pulaar wakkati nde waya seeɗaade naange ak daaɓa e différence vitamiini A."
+    },
+    {
+      "title": "Newude toppitaare ndiyam e néböday ñebbe + SODIS nder galle",
+      "body": "Ɓerɗe ndiyam ko mawɗe e suɗɗudi (junngo → absorptiion suuɗuki). Jiɓɓol ñebbe + SODIS wonaa médicament, wonaa infrastructure, e safaara. Démonstration e flakon ndiyam muusaɗo fuu ñalta. Siftina 60–85% bactérie coliformes e toppitaare bu kanam."
+    },
+    {
+      "title": "Wéccal azolla ci 'baawto' ci 'dente moƴƴo' e pilote nder mbottu",
+      "body": "A. pinnata jeyaa e Senegaal. Saare ngo ngoodi e ndiyam ngondi e ko ina waawi. Intervention: fosse walla mbottu mawɗo (bidon, bassin, trou), ndiyam e culture souche. E ñalɗi tati faa jowi, harvest ɓurnde ngam ganndunde. Parcelle démonstration e école walla poste de santé ko ɗoon ɓurndi."
+    },
+    {
+      "title": "Newude technique toppitaare intensive néböday e remooɓe ngoni ɗoo",
+      "body": "Bari néböday ngoni e ombrage e espacement 2–3 m. Toppitaare dente ñalnde espacement 50 cm e taille dente to ɓuri 1 mètre. FIMOSEN e Counterpart International taabitii e Kolda e Ziguinchor. Différence rendement: 4 faa 8 laabi bari biomasse e m²."
+    },
+    {
+      "title": "Deploy bassins dente ndiyam ngam lekki liɗɗi nder opérations tilapia",
+      "body": "Dente ndiyam waawi huuɓude lekki commercial cher ngam liɗɗi. Wona e bannge ndiyam, double ñalɗi ɗiɗi faa tati, harvest e jefde frais. Ferma boucle laabi e safaara."
+    },
+    {
+      "title": "Ɗam bassin communautaire spirulina e postes de santé ngam suɗɗudi ɓiɓɓe",
+      "body": "Ɗuum ko ɓuri tecnik, kono ko jaɓɓaare moƴƴo ngam suɗɗudi mawndi. Bassin 100 m² toppitaaɗo e debbo ɓe mbaawi ɓeydeeki 100 ɓiɓɓe kala ñalawma. Ñalnde surveillance pH, thermomètre, e seeɗaade e daaɓa. Agents de santé ko ɗoon nafooji ngam formo e distribution."
+    }
+  ],
+  "part6_label": "Cañce 6",
+  "part6_title": "Jikke e Teddungal",
+  "tech_risks_title": "Jikke tecnik",
+  "tech_risks": [
+    "<strong>Toppitaare ndiyam e néböday ñebbe wonaa solution hiiɗunde.</strong> Jiɓɓol ñebbe suuɗa turbidité e bactérie, kono ndiyam toɓti OMS e pathogènes. Ko toppitaare bu kanam ñalnde SODIS etaap bu ɗiɗi. Wural koo ngam purification tan.",
+    "<strong>Jikke contamination spirulina.</strong> Spirulina commercial wii traces cyanotoxines. Spirulina village e souche moƴƴo (Arthrospira platensis, wonaa cyanobactéries sauvages) nder conditions kontrolées, kono contrôle qualité ina waawi. Wural harvest sauvage e ndiyam naturels e vérification souche.",
+    "<strong>Azolla e Sahel ina waawi jikke heat.</strong> Projections montrent Sahel mbaawi ɓuri laɗɗi ngam azolla faa 2050. Sahaa feewre (Disembre faa Mee) ko ɗoon ɓurndi ngam ɗam stocks kulturaux.",
+    "<strong>Dente ndiyam mbaawi ɓeyda dente ndiyam e so amdi confinement.</strong> Toppitaare e bassins confinés walla sections délimitées. Dente ndiyam e ndiyam libre e gestion mbaawi fentaade lumière e dégradation."
+  ],
+  "social_risks_title": "Jikke sociaaji e behaviouraux",
+  "social_risks": [
+    "<strong>Ɗaɓɓere nyaamaari ɓuri jikkeede.</strong> Thiéboudiène nyaamaata so tati kala ñalawma. Interventions ɗe ngoni e yokkude ko heɓii ngoni e jaayirde e ɓuri ñalnde ɗe ngoni e nyaamaade ko heɓaani. Jiɓɓol néböday e sauce, wonaa salade néböday, ko ɗoon ɓurndi. Taabitii e Peace Corps e Kolda.",
+    "<strong>Debbo ɓe ko cible moƴƴo ngam ganndal, kono mbaaɗetee e acteurs, wonaa bénéficiaires.</strong> Ɓesngu debbo e Kolda, Vélingara e Ziguinchor taabitii entreprises autonomes toppitaare néböday. Modèle oo mooy ɓesngu debbo ɗe ngoni e activités, wonaa bénéficiaires.",
+    "<strong>Diffusion ganndal e safaara valeur économique ɓeydii.</strong> Projets e formo ɓesngu kono wonaa jofnude mécanisme revenu ngoni e arrêtaade ONG woo. Kala transfert ganndal ñalnde mécanisme revenu: vente jiɓɓol néböday, vente cultures azolla e saare, production comprimés spirulina e réseaux santé."
+  ],
+  "callout_label_leverage": "Ko Naafata",
+  "callout_leverage": "Ko nati weesu wonaa ñebbe, bassin walla liggeeji. Ko honno ganndal toppitaare hoolaaki e làmmbé lokkal ngam weltinirde ko changement oo nafata e hol noy waɗude.",
+  "leverage_body": "Ɓesngu Senegaal ngoni e golliiɗe nder ɗoo: FIMOSEN, CREATE! (ñalnde toppitaare 2 500 dente/duuɓi), Counterpart International (Matam) e Corps de la Paix. Ko nati weesu wonaa infrastructure — ko diffusion latérale ganndal e bannge saare.",
+  "references_label": "Ɓii ganndal",
+  "references_title": "Références",
+  "footer_brand": "Dundal Ganthiakh",
+  "footer_sub": "Wuurnu Lekki, Lekki Wuurnuma",
+  "footer_note": "Ganndal tooɗtaaɗo Avrilu 2026 ngam laaboraaje dartagol ɓiɗɗo ɗiɗo e ndiyam e bannge saare. © Jesse Joel Rogers & Mike Ba — CC BY-NC 4.0"
+}
