@@ -1,0 +1,235 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "lang_label": "Language",
+  "hero_tag": "Research Brief · Dundal Ganthiakh",
+  "hero_title": "The <em>Green Infrastructure</em> Gap<br>in Remote Senegalese Villages",
+  "hero_name_pulaar": "Wuurnu Lekki, Lekki Wuurnuma",
+  "hero_sub": "A research synthesis on fast-growing, nutrient-dense plant systems for food security, water security, and soil regeneration — and where the knowledge deficit is costing lives.",
+  "hero_meta_date": "Compiled April 2026",
+  "hero_meta_subjects": "Subjects: Moringa · Duckweed · Azolla · Spirulina",
+  "hero_meta_context": "Context: Pulaar & Wolof-speaking Sahel communities",
+  "hero_meta_cc": "CC BY-NC 4.0",
+  "toc_title": "Contents",
+  "toc_items": [
+    "The Structural Problem — what rural Senegal is facing today",
+    "The Four Plants — profiles, nutrition data, and cultivation realities",
+    "The Knowledge Gap Map — what's being done wrong vs. what's possible",
+    "The Integrated System — how these organisms interact and amplify each other",
+    "Priority Interventions — ranked by impact/effort ratio",
+    "Risks and Cautions — what could go wrong and with whom"
+  ],
+  "part1_label": "Part 1",
+  "part1_title": "The Structural Problem",
+  "part1_body1": "Rural Senegal — particularly the Sahel-adjacent northern and interior regions, and communities in the Kolda, Matam, Tambacounda, and Kaffrine areas — is caught in a compounding crisis. Rainfall in the northern part of the country has declined measurably over recent decades. Only about 3% of farmland has irrigation systems, despite up to two million hectares of potentially irrigable land. The agriculture sector is dominated by subsistence farming, constrained by limited access to inputs, technology, and credit.",
+  "part1_body2": "What makes this tractable from a knowledge-deployment angle is that the core problem is not primarily a resource problem — it's an <em>information arbitrage problem</em>. The biological infrastructure to address malnutrition and water insecurity already exists in the ecosystem or can be introduced with minimal capital. It's sitting there, underutilized, misunderstood, or actively practiced incorrectly.",
+  "callout_label_thesis": "Core Thesis",
+  "callout_thesis": "\"One in five children in the Matam region suffers from malnutrition — while moringa trees grow wild in the same soil, largely uneaten. This is not a scarcity problem. It's a knowledge deployment problem.\"",
+  "failure_modes_intro": "The specific failure modes are consistent across the literature and field reports:",
+  "failure_modes": [
+    "Food is grown and prepared in ways that destroy the nutrients that exist",
+    "Water is treated with expensive or unavailable chemicals when free biological coagulants grow locally",
+    "Livestock feed is purchased commercially when high-protein aquatic organisms can be cultivated in repurposed containers",
+    "Soil degradation continues from monoculture while nitrogen-fixing organisms are dismissed as weeds",
+    "Rainfed single-season farming remains dominant where simple water retention + fast-cycle crops could produce three seasons"
+  ],
+  "failure_modes_outro": "The four organisms in this report address all five of these failure modes, often simultaneously.",
+  "part2_label": "Part 2",
+  "part2_title": "The Four Plants: Profiles",
+  "part2_intro": "These organisms were selected because they are: (a) proven in African field conditions, (b) achievable without industrial input, (c) edible or agriculturally productive within weeks, not years, and (d) synergistic with each other when deployed as a system.",
+  "plants": {
+    "moringa": {
+      "name": "Moringa oleifera",
+      "local": "Nébéday (Wolof) · Gawdi (Pulaar) · already wild in Senegal",
+      "stats": [
+        ["Protein (dry leaf)", "25–30%"],
+        ["Vitamin A (tablespoon powder)", "~100% child RDA"],
+        ["Growth to harvest", "~3 months"],
+        ["Drought resistance", "Very high"],
+        ["Water use", "Low (deep roots)"],
+        ["Water purification", "Yes (seed powder)"]
+      ]
+    },
+    "duckweed": {
+      "name": "Lemna / Wolffia spp.",
+      "local": "Duckweed · aquatic · requires still water",
+      "stats": [
+        ["Protein (dry weight)", "35–45%"],
+        ["Biomass doubling", "Every 2–3 days"],
+        ["Land required", "Minimal (water surface)"],
+        ["Wastewater tolerance", "High (bioremediation)"],
+        ["Fish feed", "Excellent"],
+        ["Human food history", "SE Asia (Wolffia)"]
+      ]
+    },
+    "azolla": {
+      "name": "Azolla pinnata",
+      "local": "Mosquito fern · native to Senegal and West Africa",
+      "stats": [
+        ["Protein (dry weight)", "25–30%"],
+        ["Biomass doubling", "Every 3–5 days"],
+        ["Nitrogen fixed", "40–120 kg N/ha/yr"],
+        ["Fertilizer replacement", "Replaces synthetic N"],
+        ["Livestock feed", "Excellent (poultry, fish)"],
+        ["Mosquito suppression", "Up to 90% of larvae"]
+      ]
+    },
+    "spirulina": {
+      "name": "Arthrospira platensis",
+      "local": "Spirulina · traditional food in Lake Chad region",
+      "stats": [
+        ["Protein (dry weight)", "55–70%"],
+        ["Vitamin B12", "One of few plant sources"],
+        ["Setup complexity", "Moderate (pH control)"],
+        ["Harvest cycle", "Daily"],
+        ["Sunshine requirement", "High (Sahel-compatible)"],
+        ["Cost reduction possible", "60–70%"]
+      ]
+    }
+  },
+  "moringa_title": "Moringa: The One Already There",
+  "moringa_body1": "This is the most urgent story. Moringa already grows wild across Senegal. It was known and eaten there long before NGO involvement — but it is eaten incorrectly. The dominant traditional preparation is to boil the leaves two or three times and discard the water after each boil to reduce bitterness. This practice destroys the majority of vitamin A and dramatically reduces protein content.",
+  "moringa_body2": "Meanwhile, dried moringa leaf powder retains 50–70% of vitamin A (if shade-dried, not sun-dried) and can be added to any existing sauce or ceebu jenn without changing the flavor profile significantly.",
+  "moringa_body3": "The seed is an entirely separate and underutilized resource. Moringa seed powder, when stirred into turbid river water, acts as a natural coagulant. The positively charged seed proteins bind with the negatively charged particles — clay, silt, bacteria, toxins — allowing them to flocculate and settle. Studies show 90–99% impurity removal from turbid water. Combined with solar disinfection (SODIS — leaving water in plastic bottles in direct sunlight for 6 hours), it produces water safe for household use with zero cost.",
+  "video_moringa_title": "How to plant and grow moringa (video)",
+  "video_moringa_caption": "Demonstration of intensive moringa planting for maximum leaf production.",
+  "video_moringa_print": "Video: Moringa planting — https://youtube.com/shorts/Ofs5fgws18k",
+  "duckweed_title": "Duckweed: The Fastest Protein Factory on Earth",
+  "duckweed_body1": "Duckweed doubles its biomass every 2–3 days under good conditions. Its protein content — 35–45% of dry weight — exceeds soybeans (36%) and is nutritionally comparable to traditional legumes. The species most promising for direct human consumption is <em>Wolffia</em>, which has been eaten as a vegetable in Thailand, Myanmar, and Laos for generations. In the West African context, the most immediately practical application is as a fish and poultry feed supplement.",
+  "duckweed_body2": "Crucially, duckweed performs a second function: it acts as a bioremediation agent, removing up to 85% of nitrogen and phosphate from wastewater. The water that exits is cleaner and can re-enter the irrigation cycle.",
+  "azolla_title": "Azolla: The Free Fertilizer with a Bonus",
+  "azolla_body1": "<em>Azolla pinnata</em> is native to Africa and Senegal. It already grows here. The issue is that most farmers see it as a weed rather than as an asset. Its symbiosis with the cyanobacterium <em>Anabaena azollae</em> allows it to fix atmospheric nitrogen directly into water — functioning as a living fertilizer that can replace synthetic nitrogen inputs entirely when intercropped with rice in paddies. Research conducted directly in the Senegal River Valley (Saint-Louis region) confirmed the feasibility of Azolla-rice intercropping.",
+  "azolla_body2": "Beyond fertilization, fresh Azolla contains 20–30% crude protein. Poultry farmers in Rwanda and Kenya using Azolla as a feed supplement have reported dramatically reduced feed costs. The setup requires only a shallow pond or lined pit (20–60 cm deep), clean water, and a starter culture. The plant doubles in 3–5 days and can be harvested daily. As a bonus: an Azolla mat reduces mosquito larvae by up to 90%, reducing malaria transmission.",
+  "spirulina_title": "Spirulina: The Concentrated Weapon Against Severe Malnutrition",
+  "spirulina_body1": "Spirulina is the most nutritionally dense of the four organisms. At 55–70% protein by dry weight and containing Vitamin B12, beta-carotene, iron, and essential fatty acids, one tablespoon per day has been documented to produce measurable improvements in malnourished children within weeks. The Integrated Village System in Farende, Togo (1987 onward) demonstrated this at community scale — a 100 m² pond could supplement the diets of 100 children daily.",
+  "spirulina_body2": "Spirulina is more technically demanding than the others. It requires alkaline conditions (pH 8.5–11), consistent temperature (25–35°C — well within Sahel range), and some management of contamination. However, the Sahel's intense sun and high temperatures are actually ideal conditions. Costs can be reduced 60–70% by using locally available nutrient sources.",
+  "video_spirulina_title": "How to produce spirulina at village scale (video)",
+  "video_spirulina_caption": "Practical guide to small-scale spirulina production in tropical conditions.",
+  "video_spirulina_print": "Video: Spirulina production — https://youtu.be/S8xewXsM-lc",
+  "part3_label": "Part 3",
+  "part3_title": "The Knowledge Gap Map",
+  "part3_intro": "This is the core of the intervention opportunity. Here is a precise accounting of what is currently being done wrong versus what the science and field evidence show is achievable.",
+  "table_headers": ["Domain", "Current Inefficiency", "What's Actually Possible"],
+  "table_rows": [
+    [
+      "Moringa preparation",
+      "Boiling leaves 2–3x, discarding water. Destroys 60–80% of vitamin A. Fresh leaves only used when available.",
+      "Shade-dry leaves, powder them, add to existing sauces. Retains 50–70% vitamin A. One tablespoon meets ~100% child vitamin A RDA."
+    ],
+    [
+      "Moringa drying method",
+      "Sun-drying common practice. Destroys vitamin A via UV exposure.",
+      "Shade-drying under a cloth preserves 50–70% vs 20–40% under sun. Zero cost difference. Just shade."
+    ],
+    [
+      "Moringa seed use",
+      "Seeds mostly unused or discarded. Tree grown primarily as windbreak.",
+      "Seed powder treats 1 liter of turbid water per ~2 seeds. Combined with SODIS, produces potable water at zero cost."
+    ],
+    [
+      "Water treatment",
+      "Raw river/well water consumed without treatment. Or expensive/unavailable alum used. Waterborne disease is a primary driver of malnutrition.",
+      "Moringa seed coagulation + SODIS available everywhere at near-zero cost. Requires only knowledge and 6 hours of sunlight."
+    ],
+    [
+      "Moringa cultivation",
+      "Trees planted randomly at wide spacing as shade trees.",
+      "Intensive cultivation (50 cm spacing) produces maximum leaf yield from trees kept under 1 meter. 4–8x more leaf biomass per m²."
+    ],
+    [
+      "Azolla awareness",
+      "A. pinnata is native and present, recognized as a weed or ignored.",
+      "Contained pond (lined pit, 20–60cm deep) produces continuous protein-rich livestock feed. Doubles every 3–5 days. Simultaneously fixes nitrogen for irrigation."
+    ],
+    [
+      "Rice farming inputs",
+      "Synthetic nitrogen fertilizer (DAP) purchased and applied. Costs money and is supply-chain dependent.",
+      "Azolla intercropping in rice paddies (Saint-Louis trials confirmed) replaces synthetic nitrogen, maintaining comparable yields. A. pinnata is native to Senegal."
+    ],
+    [
+      "Livestock feed costs",
+      "Commercial feed purchased. Often unaffordable, causing under-nutrition in animals.",
+      "Duckweed + Azolla ponds in any available water body, including containers, can replace 30–80% of commercial feed. Setup cost: a plastic sheet and a container."
+    ],
+    [
+      "Child malnutrition triage",
+      "Severe malnutrition treated at health centers with imported therapeutic foods.",
+      "Village-scale spirulina production (100 m² pond supplements 100 children/day) has been proven at scale in Togo, Burkina Faso, Mali."
+    ],
+    [
+      "Soil degradation",
+      "Monoculture depletes soil. Fallowing, burning crop residue, and chemical fertilizers as primary responses.",
+      "Moringa roots retain water and improve soil structure. Azolla nitrogen release enriches depleted soil."
+    ],
+    [
+      "Mosquito control",
+      "Chemical treatments, bed nets, or nothing. Malaria increases susceptibility to malnutrition and vice versa.",
+      "Azolla mat on standing water bodies reduces mosquito larvae by up to 90%. Free malaria co-intervention via a food/fertilizer crop."
+    ]
+  ],
+  "part4_label": "Part 4",
+  "part4_title": "The Integrated System",
+  "part4_intro": "These four organisms are not parallel interventions — they form a closed-loop system where the output of each feeds the input of the next. This is the design insight that most NGO programs miss by introducing one plant at a time.",
+  "system_title": "The Village-Scale Closed Loop",
+  "system_nodes": [
+    ["Moringa", "Seeds + Leaves"],
+    ["Water Pond", "Coagulated, solar-treated"],
+    ["Azolla/Duckweed", "Grows on surface"],
+    ["Poultry/Fish", "Fed on aquatic plants"],
+    ["Waste Water", "Returns to pond, feeds azolla"]
+  ],
+  "system_caption": "Nitrogen fixed by Azolla enriches irrigation water for garden plots. Moringa powder added to meals from those plots. Spirulina pond supplied by the same clean water, harvested for therapeutic child nutrition. The system runs on sun, water, and leaves.",
+  "part4_body": "The key point: water becomes the connective tissue. A single managed water source — even a borehole-fed cistern or a seasonal pond — can simultaneously be treated with moringa seeds for drinking, grow azolla and duckweed on its surface for feed, and supply the alkaline pond for spirulina. The more water you manage, the more the system produces. And the more the system produces, the less water is wasted.",
+  "part5_label": "Part 5",
+  "part5_title": "Priority Interventions — Ranked",
+  "part5_intro": "Ordered by impact per unit of knowledge required. The first three can be implemented with a one-page illustrated guide and a demonstration.",
+  "priorities": [
+    {
+      "title": "Change how moringa leaves are dried and stored",
+      "body": "This is the single highest-leverage change available with zero additional resources. It requires telling people to stop sun-drying and start shade-drying. One illustrated card can triple the nutritional impact of a tree that's already growing. Target: every household that has a moringa tree. Tool needed: a single illustrated Pulaar/Wolof poster showing sun vs. shade drying and the vitamin A difference."
+    },
+    {
+      "title": "Introduce household moringa seed water treatment + SODIS",
+      "body": "Waterborne disease is a primary driver of malnutrition (gut damage → nutrient malabsorption). Moringa seed powder + SODIS requires no chemicals, no infrastructure, and no cost beyond seeds already on the tree. A demonstration with a jar of turbid water is sufficient to shift behavior. Eliminates 60–85% of coliform bacteria as a first-pass treatment."
+    },
+    {
+      "title": "Convert Azolla from \"weed\" to \"asset\" with a container pilot",
+      "body": "A. pinnata is native and present in Senegal. Every village with a water source already has the feedstock nearby. The only intervention needed is a lined pit or large container (repurposed oil drum, basin, tarp-lined hole), water, and a starter culture. Within 3–5 days, the first harvest is available for poultry. A demonstration plot at a school or health post is the proven entry point."
+    },
+    {
+      "title": "Introduce intensive moringa cultivation technique to existing growers",
+      "body": "Most moringa is grown as a shade tree at 2–3m spacing, producing seeds. Leaf production requires 50 cm spacing and topping trees at 1 meter. FIMOSEN and Counterpart International have already demonstrated this in the Kolda and Ziguinchor regions. The yield difference is dramatic: 4–8x more leaf biomass per square meter."
+    },
+    {
+      "title": "Deploy duckweed ponds as fish feed in any existing tilapia/catfish operation",
+      "body": "Duckweed can partially or fully replace expensive commercial fish feed. It grows on the same water surface as the fish, doubles every 2–3 days, and can be harvested and fed fresh. This closes the protein loop with near-zero ongoing cost."
+    },
+    {
+      "title": "Establish a community spirulina pond at health posts for therapeutic child nutrition",
+      "body": "This is the most technically complex of the six but is the correct tool for severe malnutrition cases. A 100 m² pond managed by a women's group (the Togo and Burkina Faso model) can supplement 100 children daily. It requires pH monitoring, temperature awareness, and a shade-drying process. Health workers are the correct trainers and distribution channel."
+    }
+  ],
+  "part6_label": "Part 6",
+  "part6_title": "Risks and Honest Cautions",
+  "tech_risks_title": "Technical Risks",
+  "tech_risks": [
+    "<strong>Moringa water treatment is not a complete solution alone.</strong> Seed powder reduces turbidity and bacterial load dramatically, but treated water still often exceeds WHO guidelines for pathogens. It is a first-pass treatment requiring solar disinfection (SODIS) as a second step. Never present it as a stand-alone purification method.",
+    "<strong>Spirulina contamination risk.</strong> Commercial spirulina products have shown traces of cyanotoxins. Village-cultivated spirulina of the correct strain (Arthrospira platensis, not wild cyanobacteria) in controlled conditions is safe, but quality control matters. Do not encourage wild harvest from natural water bodies without strain verification.",
+    "<strong>Azolla in the Sahel faces rising heat stress.</strong> Climate projections show the Sahel region is likely to become marginally less suitable for Azolla by 2050. The current window for establishing Azolla habits is important. Off-season (Dec–May cooler months) is the best time to build large culture stocks.",
+    "<strong>Duckweed can outcompete other aquatic plants if uncontained.</strong> Cultivation should be in contained ponds or partitioned sections of water bodies. Open-water duckweed without management can block light and degrade ecosystems."
+  ],
+  "social_risks_title": "Social and Behavioral Risks",
+  "social_risks": [
+    "<strong>Food culture is rigid.</strong> Senegalese dishes are deeply habituated — ceebu jenn is eaten almost daily. Interventions that require adding a new ingredient are more likely to succeed than those asking people to eat something unfamiliar. Moringa powder in existing sauces, not moringa salad, is the correct framing. This was validated explicitly in Peace Corps field work in Kolda.",
+    "<strong>Women are the correct knowledge target, but must be positioned as agents, not recipients.</strong> Women's groups in Kolda, Vélingara, and Ziguinchor have already demonstrated autonomous moringa processing enterprises. The model is women's economic groups adopting these as production activities, not aid recipients receiving supplementation programs.",
+    "<strong>Knowledge diffusion without economic value stalls.</strong> Projects that train a community but leave no income pathway stall after the NGO departs. Every knowledge transfer should be coupled with an income mechanism: moringa powder sales, Azolla culture sales to neighboring villages, spirulina tablet production for local health networks."
+  ],
+  "callout_label_leverage": "The Leverage Point",
+  "callout_leverage": "The bottleneck is not seeds, ponds, or labor. It's the absence of a trusted, local-language knowledge delivery mechanism that explains why the change matters and exactly how to make it.",
+  "leverage_body": "The Senegalese organizations already working this space include FIMOSEN (Moringa Sector of Senegal), CREATE! (2,500 trees/year planting campaigns), Counterpart International (Matam intensive cultivation programs), and the Peace Corps agriculture and maternal-child health sectors. The gap is not organizational infrastructure — it's lateral knowledge diffusion at the village-to-village scale.",
+  "references_label": "Works Cited",
+  "references_title": "References",
+  "footer_brand": "Dundal Ganthiakh",
+  "footer_sub": "Wuurnu Lekki, Lekki Wuurnuma",
+  "footer_note": "Research compiled April 2026 for village-level food and water security program design. © Jesse Joel Rogers & Mike Ba — CC BY-NC 4.0"
+}
