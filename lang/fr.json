@@ -1,0 +1,235 @@
+{
+  "lang": "fr",
+  "dir": "ltr",
+  "lang_label": "Langue",
+  "hero_tag": "Note de recherche · Dundal Ganthiakh",
+  "hero_title": "Le Déficit d'<em>Infrastructures Vertes</em><br>dans les Villages Sénégalais Reculés",
+  "hero_name_pulaar": "Wuurnu Lekki, Lekki Wuurnuma",
+  "hero_sub": "Une synthèse de recherche sur les systèmes végétaux à croissance rapide et à haute densité nutritive pour la sécurité alimentaire, la sécurité hydrique et la régénération des sols — et où le déficit de connaissances coûte des vies.",
+  "hero_meta_date": "Compilé en avril 2026",
+  "hero_meta_subjects": "Sujets : Moringa · Lentille d'eau · Azolla · Spiruline",
+  "hero_meta_context": "Contexte : Communautés sahéliennes pulaar et wolof",
+  "hero_meta_cc": "CC BY-NC 4.0",
+  "toc_title": "Table des matières",
+  "toc_items": [
+    "Le problème structurel — ce à quoi le Sénégal rural fait face aujourd'hui",
+    "Les quatre plantes — profils, données nutritionnelles et réalités de la culture",
+    "La carte des lacunes de connaissances — ce qui est mal fait par rapport à ce qui est possible",
+    "Le système intégré — comment ces organismes interagissent et se renforcent mutuellement",
+    "Interventions prioritaires — classées par rapport impact/effort",
+    "Risques et mises en garde — ce qui pourrait mal tourner et avec qui"
+  ],
+  "part1_label": "Partie 1",
+  "part1_title": "Le Problème Structurel",
+  "part1_body1": "Le Sénégal rural — notamment les régions sahéliennes du nord et de l'intérieur, ainsi que les communautés des zones de Kolda, Matam, Tambacounda et Kaffrine — est pris dans une crise compoundée. Les précipitations dans la partie nord du pays ont diminué de manière mesurable au cours des dernières décennies. Seulement environ 3 % des terres agricoles disposent de systèmes d'irrigation, malgré jusqu'à deux millions d'hectares potentiellement irrigables. Le secteur agricole est dominé par l'agriculture de subsistance, limitée par un accès restreint aux intrants, aux technologies et au crédit.",
+  "part1_body2": "Ce qui rend ce problème accessible d'un point de vue déploiement des connaissances, c'est que le problème fondamental n'est pas principalement un problème de ressources — c'est un <em>problème d'arbitrage de l'information</em>. L'infrastructure biologique pour remédier à la malnutrition et à l'insécurité hydrique existe déjà dans l'écosystème ou peut être introduite avec un capital minimal. Elle est là, sous-utilisée, mal comprise, ou activement pratiquée de manière incorrecte.",
+  "callout_label_thesis": "Thèse centrale",
+  "callout_thesis": "« Un enfant sur cinq dans la région de Matam souffre de malnutrition — alors que des moringas poussent à l'état sauvage dans le même sol, largement non consommés. Ce n'est pas un problème de pénurie. C'est un problème de déploiement des connaissances. »",
+  "failure_modes_intro": "Les modes de défaillance spécifiques sont cohérents à travers la littérature et les rapports de terrain :",
+  "failure_modes": [
+    "Les aliments sont cultivés et préparés de manière à détruire les nutriments qui existent",
+    "L'eau est traitée avec des produits chimiques coûteux ou indisponibles alors que des coagulants biologiques gratuits poussent localement",
+    "L'alimentation du bétail est achetée dans le commerce alors que des organismes aquatiques riches en protéines peuvent être cultivés dans des conteneurs de récupération",
+    "La dégradation des sols se poursuit par monoculture, tandis que des organismes fixateurs d'azote sont considérés comme des mauvaises herbes",
+    "L'agriculture pluviale à saison unique reste dominante là où une simple rétention d'eau associée à des cultures à cycle court pourrait produire trois saisons"
+  ],
+  "failure_modes_outro": "Les quatre organismes présentés dans ce rapport répondent à ces cinq modes de défaillance, souvent simultanément.",
+  "part2_label": "Partie 2",
+  "part2_title": "Les Quatre Plantes : Profils",
+  "part2_intro": "Ces organismes ont été sélectionnés parce qu'ils sont : (a) éprouvés dans les conditions de terrain africaines, (b) réalisables sans intrants industriels, (c) comestibles ou productifs sur le plan agricole en quelques semaines et non en années, et (d) synergiques entre eux lorsqu'ils sont déployés en système.",
+  "plants": {
+    "moringa": {
+      "name": "Moringa oleifera",
+      "local": "Nébéday (wolof) · Gawdi (pulaar) · déjà présent à l'état sauvage au Sénégal",
+      "stats": [
+        ["Protéines (feuille sèche)", "25–30 %"],
+        ["Vitamine A (cuillère à soupe poudre)", "~100 % AJR enfants"],
+        ["Délai avant récolte", "~3 mois"],
+        ["Résistance à la sécheresse", "Très élevée"],
+        ["Consommation en eau", "Faible (racines profondes)"],
+        ["Purification de l'eau", "Oui (poudre de graines)"]
+      ]
+    },
+    "duckweed": {
+      "name": "Lemna / Wolffia spp.",
+      "local": "Lentille d'eau · aquatique · nécessite une eau calme",
+      "stats": [
+        ["Protéines (poids sec)", "35–45 %"],
+        ["Doublement de la biomasse", "Toutes les 2–3 jours"],
+        ["Surface nécessaire", "Minimale (surface de l'eau)"],
+        ["Tolérance aux eaux usées", "Élevée (bioremédiation)"],
+        ["Alimentation des poissons", "Excellente"],
+        ["Historique alimentaire humain", "Asie du Sud-Est (Wolffia)"]
+      ]
+    },
+    "azolla": {
+      "name": "Azolla pinnata",
+      "local": "Fougère aquatique · native du Sénégal et de l'Afrique de l'Ouest",
+      "stats": [
+        ["Protéines (poids sec)", "25–30 %"],
+        ["Doublement de la biomasse", "Tous les 3–5 jours"],
+        ["Azote fixé", "40–120 kg N/ha/an"],
+        ["Remplacement des engrais", "Remplace l'azote de synthèse"],
+        ["Alimentation animale", "Excellente (volaille, poissons)"],
+        ["Suppression des moustiques", "Jusqu'à 90 % des larves"]
+      ]
+    },
+    "spirulina": {
+      "name": "Arthrospira platensis",
+      "local": "Spiruline · aliment traditionnel dans la région du lac Tchad",
+      "stats": [
+        ["Protéines (poids sec)", "55–70 %"],
+        ["Vitamine B12", "L'une des rares sources végétales"],
+        ["Complexité d'installation", "Modérée (contrôle du pH)"],
+        ["Cycle de récolte", "Quotidien"],
+        ["Besoin en ensoleillement", "Élevé (compatible Sahel)"],
+        ["Réduction possible des coûts", "60–70 %"]
+      ]
+    }
+  },
+  "moringa_title": "Le moringa : celui qui est déjà là",
+  "moringa_body1": "C'est l'histoire la plus urgente. Le moringa pousse déjà à l'état sauvage dans tout le Sénégal. Il était connu et consommé bien avant l'intervention des ONG — mais il est consommé de manière incorrecte. La préparation traditionnelle dominante consiste à faire bouillir les feuilles deux ou trois fois et à jeter l'eau après chaque ébullition pour réduire l'amertume. Cette pratique détruit la majeure partie de la vitamine A et réduit considérablement la teneur en protéines.",
+  "moringa_body2": "Or, la poudre de feuilles de moringa séchées à l'ombre conserve 50 à 70 % de la vitamine A, et peut être ajoutée à n'importe quelle sauce existante ou au thiéboudiène sans modifier sensiblement le profil gustatif.",
+  "moringa_body3": "La graine représente une ressource entièrement distincte et sous-exploitée. La poudre de graines de moringa, lorsqu'elle est agitée dans de l'eau de rivière turbide, agit comme un coagulant naturel. Les protéines chargées positivement des graines se lient aux particules chargées négativement — argile, limon, bactéries, toxines — permettant leur floculation et leur décantation. Des études montrent un taux d'élimination des impuretés de 90 à 99 % dans l'eau turbide. Cela n'élimine pas tous les pathogènes, mais combiné à la désinfection solaire (SODIS — laisser l'eau dans des bouteilles en plastique exposées au soleil pendant 6 heures), cela produit une eau potable sans aucun coût ni intrant chimique.",
+  "video_moringa_title": "Comment planter et cultiver le moringa (vidéo)",
+  "video_moringa_caption": "Démonstration de la plantation intensive du moringa pour une production maximale de feuilles.",
+  "video_moringa_print": "Vidéo : Plantation du moringa — https://youtube.com/shorts/Ofs5fgws18k",
+  "duckweed_title": "La lentille d'eau : l'usine à protéines la plus rapide au monde",
+  "duckweed_body1": "La lentille d'eau double sa biomasse toutes les 2 à 3 jours dans de bonnes conditions. Sa teneur en protéines — 35 à 45 % du poids sec — dépasse celle du soja (36 %) et est nutritionnellement comparable aux légumineuses traditionnelles. L'espèce la plus prometteuse pour la consommation humaine directe est <em>Wolffia</em>, consommée comme légume en Thaïlande, au Myanmar et au Laos depuis des générations. Dans le contexte ouest-africain, l'application la plus immédiatement pratique est son utilisation en complément alimentaire pour les poissons et la volaille.",
+  "duckweed_body2": "De façon cruciale, la lentille d'eau remplit une deuxième fonction : elle agit comme agent de bioremédiation, éliminant jusqu'à 85 % de l'azote et des phosphates des eaux usées. L'eau qui en ressort est plus propre et peut réintégrer le cycle d'irrigation.",
+  "azolla_title": "L'azolla : l'engrais gratuit avec un bonus",
+  "azolla_body1": "<em>Azolla pinnata</em> est native d'Afrique et du Sénégal. Elle pousse déjà ici. Le problème est que la plupart des agriculteurs la considèrent comme une mauvaise herbe plutôt que comme un atout. Sa symbiose avec la cyanobactérie <em>Anabaena azollae</em> lui permet de fixer l'azote atmosphérique directement dans l'eau — fonctionnant comme un engrais vivant capable de remplacer entièrement les intrants azotés de synthèse en culture intercalaire avec le riz dans les rizières. Des recherches menées directement dans la Vallée du Fleuve Sénégal (région de Saint-Louis) ont confirmé la faisabilité de la culture intercalaire azolla-riz.",
+  "azolla_body2": "Au-delà de la fertilisation, l'azolla fraîche contient 20 à 30 % de protéines brutes. Des éleveurs de volaille au Rwanda et au Kenya utilisant l'azolla comme complément alimentaire ont signalé une réduction spectaculaire des coûts d'alimentation. L'installation nécessite seulement une mare peu profonde ou une fosse revêtue (20 à 60 cm de profondeur), de l'eau propre et une culture souche. La plante double en 3 à 5 jours et peut être récoltée quotidiennement. Avantage supplémentaire : un tapis d'azolla supprime les larves de moustiques jusqu'à 90 %, réduisant la transmission du paludisme.",
+  "spirulina_title": "La spiruline : l'arme concentrée contre la malnutrition sévère",
+  "spirulina_body1": "La spiruline est le plus nutritionnellement dense des quatre organismes. À 55 à 70 % de protéines en poids sec, contenant de la vitamine B12, du bêta-carotène, du fer et des acides gras essentiels, une cuillère à soupe par jour a été documentée comme produisant des améliorations mesurables chez les enfants malnutris en quelques semaines. Le Système Villageois Intégré de Farende, au Togo (depuis 1987), a démontré cela à l'échelle communautaire — un bassin de 100 m² peut compléter le régime alimentaire de 100 enfants quotidiennement.",
+  "spirulina_body2": "La spiruline est plus exigeante techniquement. Elle nécessite des conditions alcalines (pH 8,5 à 11), une température constante (25 à 35 °C — largement dans les normes du Sahel), et une certaine gestion de la contamination. Cependant, le soleil intense et les températures élevées du Sahel sont des conditions idéales. Les coûts peuvent être réduits de 60 à 70 % en utilisant des sources de nutriments disponibles localement.",
+  "video_spirulina_title": "Comment produire de la spiruline au niveau villageois (vidéo)",
+  "video_spirulina_caption": "Guide pratique pour la production de spiruline à petite échelle dans des conditions tropicales.",
+  "video_spirulina_print": "Vidéo : Production de spiruline — https://youtu.be/S8xewXsM-lc",
+  "part3_label": "Partie 3",
+  "part3_title": "La Carte des Lacunes de Connaissances",
+  "part3_intro": "Voici un bilan précis de ce qui est actuellement mal fait par rapport à ce que la science et les preuves de terrain montrent comme réalisable.",
+  "table_headers": ["Domaine", "Inefficacité actuelle", "Ce qui est réellement possible"],
+  "table_rows": [
+    [
+      "Préparation du moringa",
+      "Ébullition des feuilles 2–3 fois, rejet de l'eau. Détruit 60–80 % de la vitamine A. Feuilles fraîches utilisées uniquement quand disponibles.",
+      "Séchage à l'ombre, mise en poudre, ajout aux sauces existantes. Conserve 50–70 % de la vitamine A. Une cuillère à soupe couvre ~100 % des AJR en vitamine A pour un enfant."
+    ],
+    [
+      "Méthode de séchage du moringa",
+      "Séchage au soleil pratique courante. Détruit la vitamine A par exposition aux UV.",
+      "Le séchage à l'ombre sous un tissu préserve 50–70 % contre 20–40 % au soleil. Aucune différence de coût. Juste de l'ombre."
+    ],
+    [
+      "Utilisation des graines de moringa",
+      "Graines majoritairement inutilisées ou jetées. Arbre cultivé principalement comme brise-vent.",
+      "La poudre de graines traite 1 litre d'eau turbide pour ~2 graines. Combinée au SODIS, produit de l'eau potable à coût nul."
+    ],
+    [
+      "Traitement de l'eau",
+      "Eau de rivière/puits consommée sans traitement. Ou alun coûteux/indisponible utilisé. Les maladies d'origine hydrique sont un facteur majeur de malnutrition.",
+      "Coagulation par graines de moringa + SODIS disponibles partout à coût quasi nul. Nécessite uniquement de la connaissance et 6 heures de soleil."
+    ],
+    [
+      "Culture du moringa",
+      "Arbres plantés aléatoirement, espacés largement comme arbres d'ombrage. Récolte des graines uniquement à grande taille.",
+      "Culture intensive (espacement 50 cm) produit un rendement maximal en feuilles avec des arbres maintenus à moins de 1 mètre. 4 à 8 fois plus de biomasse foliaire par m²."
+    ],
+    [
+      "Sensibilisation à l'azolla",
+      "A. pinnata est native et présente, reconnue comme mauvaise herbe ou ignorée.",
+      "Mare contenue (fosse revêtue, 20–60 cm de profondeur) produit un aliment continu riche en protéines. Double tous les 3–5 jours. Fixe simultanément l'azote pour l'irrigation."
+    ],
+    [
+      "Intrants pour la riziculture",
+      "Engrais azoté de synthèse (DAP) acheté et appliqué. Coûte de l'argent et dépend de la chaîne d'approvisionnement.",
+      "Culture intercalaire azolla en rizières (confirmée par les essais de Saint-Louis) remplace l'azote de synthèse, maintenant des rendements comparables. A. pinnata est native du Sénégal."
+    ],
+    [
+      "Coûts d'alimentation du bétail",
+      "Aliments commerciaux achetés. Souvent inabordables, causant une sous-alimentation des animaux.",
+      "Des bassins de lentilles d'eau + azolla dans tout plan d'eau disponible, y compris des conteneurs, peuvent remplacer 30 à 80 % de l'alimentation commerciale. Coût d'installation : une bâche plastique et un conteneur."
+    ],
+    [
+      "Triage de la malnutrition infantile",
+      "Malnutrition sévère traitée dans les centres de santé avec des aliments thérapeutiques importés.",
+      "La production de spiruline à l'échelle villageoise (bassin de 100 m² complémente 100 enfants/jour) a été prouvée à grande échelle au Togo, au Burkina Faso, au Mali."
+    ],
+    [
+      "Dégradation des sols",
+      "La monoculture épuise le sol. Jachère, brûlage des résidus et engrais chimiques comme réponses principales.",
+      "Les racines du moringa retiennent l'eau et améliorent la structure du sol. La libération d'azote par l'azolla enrichit les sols appauvris. Ces pratiques existent déjà localement."
+    ],
+    [
+      "Lutte contre les moustiques",
+      "Traitements chimiques, moustiquaires, ou rien. Le paludisme augmente la sensibilité à la malnutrition et vice versa.",
+      "Un tapis d'azolla sur les plans d'eau réduit les larves de moustiques jusqu'à 90 %. Co-intervention anti-paludéenne gratuite via une culture alimentaire/fertilisante."
+    ]
+  ],
+  "part4_label": "Partie 4",
+  "part4_title": "Le Système Intégré",
+  "part4_intro": "Ces quatre organismes ne sont pas des interventions parallèles — ils forment un système en boucle fermée où la sortie de chacun alimente l'entrée du suivant. C'est l'insight de conception que la plupart des programmes d'ONG ratent en introduisant une plante à la fois.",
+  "system_title": "La boucle fermée à l'échelle villageoise",
+  "system_nodes": [
+    ["Moringa", "Graines + Feuilles"],
+    ["Mare", "Eau coagulée, traitée solaire"],
+    ["Azolla/Lentille d'eau", "Pousse en surface"],
+    ["Volaille/Poissons", "Nourris avec les plantes aquatiques"],
+    ["Eaux de déjection", "Retournent à la mare, nourrissent l'azolla"]
+  ],
+  "system_caption": "L'azote fixé par l'azolla enrichit l'eau d'irrigation pour les parcelles maraîchères. La poudre de moringa est ajoutée aux repas issus de ces parcelles. Le bassin de spiruline est alimenté par la même eau propre, récolté pour la nutrition thérapeutique des enfants. Le système fonctionne au soleil, à l'eau et aux feuilles.",
+  "part4_body": "Le point clé : l'eau devient le tissu connectif. Une seule source d'eau gérée — même une citerne alimentée par forage ou une mare saisonnière — peut simultanément être traitée aux graines de moringa pour la boisson, faire pousser de l'azolla et de la lentille d'eau en surface pour l'alimentation animale, et approvisionner le bassin alcalin pour la spiruline. Plus on gère d'eau, plus le système produit. Et plus le système produit, moins l'eau est gaspillée (la lentille d'eau et l'azolla couvrent les mares, réduisant considérablement l'évaporation).",
+  "part5_label": "Partie 5",
+  "part5_title": "Interventions Prioritaires",
+  "part5_intro": "Classées par impact par unité de connaissance requise. Les trois premières peuvent être mises en œuvre avec un guide illustré d'une page et une démonstration.",
+  "priorities": [
+    {
+      "title": "Changer la façon dont les feuilles de moringa sont séchées et stockées",
+      "body": "C'est le changement à effet de levier le plus élevé disponible avec zéro ressource supplémentaire. Il s'agit de dire aux gens d'arrêter le séchage au soleil et de commencer le séchage à l'ombre. Une carte illustrée peut tripler l'impact nutritionnel d'un arbre qui pousse déjà. Cible : chaque ménage qui possède un arbre moringa. Outil nécessaire : une seule affiche illustrée en pulaar/wolof montrant le séchage au soleil par rapport au séchage à l'ombre et la différence en vitamine A."
+    },
+    {
+      "title": "Introduire le traitement de l'eau au moringa + SODIS à l'échelle ménage",
+      "body": "Les maladies d'origine hydrique sont un facteur majeur de malnutrition (lésions intestinales → malabsorption des nutriments). La poudre de graines de moringa + SODIS ne nécessite aucun produit chimique, aucune infrastructure et aucun coût au-delà des graines déjà sur l'arbre. Une démonstration avec un bocal d'eau turbide suffit à modifier les comportements. Élimine 60 à 85 % des bactéries coliformes en premier traitement."
+    },
+    {
+      "title": "Transformer l'azolla de « mauvaise herbe » en « atout » avec un projet pilote en conteneur",
+      "body": "A. pinnata est native et présente au Sénégal. Chaque village disposant d'une source d'eau possède déjà la ressource à proximité. La seule intervention nécessaire est une fosse revêtue ou un grand conteneur (bidon recyclé, bassine, trou revêtu de bâche), de l'eau et une culture souche. En 3 à 5 jours, la première récolte est disponible pour la volaille. Une parcelle de démonstration dans une école ou un poste de santé est le point d'entrée éprouvé."
+    },
+    {
+      "title": "Introduire la technique de culture intensive du moringa aux producteurs existants",
+      "body": "La plupart des moringas sont cultivés comme arbres d'ombrage avec un espacement de 2 à 3 m. La production de feuilles nécessite un espacement de 50 cm et une taille des arbres à 1 mètre. FIMOSEN et Counterpart International ont déjà démontré cela dans les régions de Kolda et Ziguinchor. La différence de rendement est spectaculaire : 4 à 8 fois plus de biomasse foliaire par mètre carré."
+    },
+    {
+      "title": "Déployer des bassins de lentilles d'eau comme alimentation des poissons dans toute opération existante",
+      "body": "La lentille d'eau peut partiellement ou totalement remplacer les aliments commerciaux coûteux pour poissons. Elle pousse à la surface de la même eau que les poissons, double toutes les 2 à 3 jours et peut être récoltée et donnée fraîche. Cela ferme la boucle protéique à un coût continu quasi nul."
+    },
+    {
+      "title": "Établir un bassin communautaire de spiruline dans les postes de santé",
+      "body": "C'est la plus techniquement complexe des six interventions, mais c'est le bon outil pour les cas de malnutrition sévère. Un bassin de 100 m² géré par un groupement de femmes peut compléter l'alimentation de 100 enfants par jour. Nécessite une surveillance du pH, une sensibilisation à la température, et un processus de séchage à l'ombre. Les agents de santé sont les formateurs appropriés et le canal de distribution."
+    }
+  ],
+  "part6_label": "Partie 6",
+  "part6_title": "Risques et Mises en Garde Honnêtes",
+  "tech_risks_title": "Risques techniques",
+  "tech_risks": [
+    "<strong>Le traitement de l'eau au moringa n'est pas une solution complète à lui seul.</strong> La poudre de graines réduit considérablement la turbidité et la charge bactérienne, mais l'eau traitée dépasse souvent encore les directives de l'OMS en matière de pathogènes. C'est un traitement de première passe nécessitant la désinfection solaire (SODIS) comme deuxième étape. Ne jamais la présenter comme une méthode de purification autonome.",
+    "<strong>Risque de contamination de la spiruline.</strong> Des produits commerciaux de spiruline ont montré des traces de cyanotoxines. La spiruline cultivée en village de la bonne souche (Arthrospira platensis, non des cyanobactéries sauvages) dans des conditions contrôlées est sans danger. Ne pas encourager la récolte sauvage dans des plans d'eau naturels sans vérification de la souche.",
+    "<strong>L'azolla au Sahel fait face à un stress thermique croissant.</strong> Les projections climatiques montrent que la région sahélienne sera probablement marginalement moins adaptée à l'azolla d'ici 2050. La saison fraîche (décembre à mai) est le meilleur moment pour constituer de grands stocks culturaux.",
+    "<strong>La lentille d'eau peut supplanter d'autres plantes aquatiques si elle n'est pas contenue.</strong> La culture doit se faire dans des bassins confinés ou des sections délimitées. La lentille d'eau en eau libre sans gestion peut bloquer la lumière et dégrader les écosystèmes."
+  ],
+  "social_risks_title": "Risques sociaux et comportementaux",
+  "social_risks": [
+    "<strong>La culture alimentaire est rigide.</strong> Les plats sénégalais sont profondément ancrés dans les habitudes — le thiéboudiène est consommé presque quotidiennement. La poudre de moringa dans les sauces existantes, et non la salade de moringa, est le bon cadrage. Cela a été validé explicitement dans les travaux de terrain des Corps de la Paix à Kolda.",
+    "<strong>Les femmes sont la bonne cible de la transmission des connaissances, mais doivent être positionnées comme actrices, non comme bénéficiaires.</strong> Les groupements féminins de Kolda, Vélingara et Ziguinchor ont déjà démontré des entreprises autonomes de transformation du moringa. Le modèle repose sur des groupements féminins adoptant ces activités de production.",
+    "<strong>La diffusion des connaissances sans valeur économique s'enlise.</strong> Les projets qui forment une communauté mais ne laissent aucun mécanisme de revenu s'arrêtent après le départ de l'ONG. Chaque transfert de connaissances doit être couplé à un mécanisme de revenu : vente de poudre de moringa, vente de cultures d'azolla aux villages voisins, production de comprimés de spiruline pour les réseaux de santé locaux."
+  ],
+  "callout_label_leverage": "Le Point de Levier",
+  "callout_leverage": "Le goulot d'étranglement n'est pas les graines, les mares ou la main-d'œuvre. C'est l'absence d'un mécanisme de transmission des connaissances fiable, en langue locale, qui explique pourquoi le changement est important et exactement comment le réaliser.",
+  "leverage_body": "Les organisations sénégalaises travaillant déjà dans ce domaine comprennent FIMOSEN (Filière Moringa du Sénégal), CREATE! (campagnes de plantation de 2 500 arbres/an), Counterpart International (programmes de culture intensive à Matam) et le Corps de la Paix dans les secteurs de l'agriculture et de la santé maternelle et infantile. Le déficit n'est pas dans l'infrastructure organisationnelle — c'est la diffusion latérale des connaissances à l'échelle village-à-village.",
+  "references_label": "Sources",
+  "references_title": "Références",
+  "footer_brand": "Dundal Ganthiakh",
+  "footer_sub": "Wuurnu Lekki, Lekki Wuurnuma",
+  "footer_note": "Recherche compilée en avril 2026 pour la conception de programmes de sécurité alimentaire et hydrique à l'échelle villageoise. © Jesse Joel Rogers & Mike Ba — CC BY-NC 4.0"
+}
