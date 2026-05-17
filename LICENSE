@@ -1,0 +1,115 @@
+# Licenses / Licences
+
+This repository contains two distinct types of work, each governed by a separate license.
+
+Ce dépôt contient deux types distincts de travaux, chacun régi par une licence séparée.
+
+---
+
+## Code License — MIT
+
+All source code in this repository — including but not limited to `index.html`, `css/styles.css`, `js/lang.js`, and any other `.html`, `.css`, `.js`, or configuration files — is released under the **MIT License**.
+
+```
+MIT License
+
+Copyright (c) 2026 Jesse Joel Rogers & Mike Ba
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
+
+## Content License — CC BY-NC 4.0
+
+All content in this repository — including but not limited to the research text, translations, data, and any other material contained in the `lang/` directory and rendered via `index.html` — is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+
+**You are free to:**
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+
+**Under the following terms:**
+- **Attribution** — You must give appropriate credit to Jesse Joel Rogers and Mike Ba, provide a link to this repository and to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the authors endorse you or your use.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+---
+
+## Licence du code — MIT
+
+Tout le code source de ce dépôt — y compris mais sans s'y limiter `index.html`, `css/styles.css`, `js/lang.js` et tout autre fichier `.html`, `.css`, `.js` ou fichier de configuration — est publié sous la **licence MIT**.
+
+```
+Licence MIT
+
+Copyright (c) 2026 Jesse Joel Rogers & Mike Ba
+
+La permission est accordée, gratuitement, à toute personne obtenant une copie
+de ce logiciel et des fichiers de documentation associés (le « Logiciel »),
+de traiter le Logiciel sans restriction, notamment sans limitation les droits
+d'utiliser, de copier, de modifier, de fusionner, de publier, de distribuer,
+de sous-licencier et/ou de vendre des copies du Logiciel, et d'autoriser les
+personnes auxquelles le Logiciel est fourni à le faire, sous réserve des
+conditions suivantes :
+
+La notice de copyright ci-dessus et la présente notice de permission devront
+être incluses dans toutes les copies ou parties substantielles du Logiciel.
+
+LE LOGICIEL EST FOURNI « TEL QUEL », SANS GARANTIE D'AUCUNE SORTE, EXPRESSE
+OU IMPLICITE, NOTAMMENT SANS GARANTIE DE QUALITÉ MARCHANDE, D'ADÉQUATION À
+UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON. EN AUCUN CAS LES AUTEURS
+OU TITULAIRES DU DROIT D'AUTEUR NE SERONT RESPONSABLES DE TOUT DOMMAGE,
+RÉCLAMATION OU AUTRE RESPONSABILITÉ, QUE CE SOIT DANS LE CADRE D'UN CONTRAT,
+D'UN DÉLIT OU AUTRE, EN LIEN AVEC LE LOGICIEL OU SON UTILISATION, OU AVEC
+D'AUTRES MANIPULATIONS DU LOGICIEL.
+```
+
+---
+
+## Licence du contenu — CC BY-NC 4.0
+
+Tout le contenu de ce dépôt — y compris mais sans s'y limiter le texte de recherche, les traductions, les données et tout autre matériel contenu dans le répertoire `lang/` et rendu via `index.html` — est placé sous la **licence Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+
+**Vous êtes autorisé à :**
+- **Partager** — copier et redistribuer le matériel sur tout support ou dans tout format
+- **Adapter** — remixer, transformer et créer à partir du matériel
+
+**Selon les conditions suivantes :**
+- **Attribution** — Vous devez créditer Jesse Joel Rogers et Mike Ba, fournir un lien vers ce dépôt et vers la licence, et indiquer si des modifications ont été effectuées. Vous devez le faire de la manière la plus raisonnable possible, mais pas d'une façon qui suggérerait que les auteurs vous approuvent ou approuvent votre utilisation.
+- **Pas d'utilisation commerciale** — Vous n'êtes pas autorisé à faire un usage commercial de ce matériel.
+- **Pas de restrictions supplémentaires** — Vous n'êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser le matériel dans les conditions décrites par la licence.
+
+Texte intégral de la licence : https://creativecommons.org/licenses/by-nc/4.0/legalcode.fr
+
+---
+
+## Summary / Résumé
+
+| Component / Composant | License / Licence | Commercial use / Usage commercial | Modification / Modification |
+|---|---|---|---|
+| Code (HTML, CSS, JS) | MIT | ✓ Permitted / Autorisé | ✓ Permitted / Autorisée |
+| Content (text, translations, data) | CC BY-NC 4.0 | ✗ Not permitted / Non autorisé | ✓ Permitted with attribution / Autorisée avec attribution |
+
+---
+
+*For permissions beyond the scope of these licenses — including commercial licensing inquiries — contact the authors via https://github.com/RogersMath/senegal*
+
+*Pour toute autorisation au-delà du champ de ces licences — y compris les demandes de licence commerciale — contactez les auteurs via https://github.com/RogersMath/senegal*
