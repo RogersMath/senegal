@@ -1,0 +1,245 @@
+{
+  "_translation_notes": [
+    "Wolof translation — DRAFT. Please review with Mike Ba before publishing.",
+    "Wolof orthography follows the 1971 official standardization (CLAD/ACALAN).",
+    "Agricultural vocabulary sourced from wolofresources.org and Janga Wolof.",
+    "Terms flagged VERIFY WITH MIKE require native speaker confirmation.",
+    "Wolof has borrowed heavily from French and Arabic — loanwords are kept where no Wolof equivalent exists.",
+    "The word for 'malnutrition' in everyday Wolof is typically the French loanword or described as 'xanaanum' (hunger/wasting) — VERIFY WITH MIKE.",
+    "Nébéday (moringa) is confirmed universally across Senegal per multiple sources.",
+    "Duckweed, Azolla, Spirulina have no established Wolof common names — descriptive phrases used."
+  ],
+  "lang": "wo",
+  "dir": "ltr",
+  "lang_label": "Làkk",
+  "hero_tag": "Xëtu Wóolu · Dundal Ganthiakh",
+  "hero_title": "Li Dëkk yi ci Reewu Senegaal Soxoroon<br>Xam-Xam du <em>Infrastructures Vertes</em>",
+  "hero_name_pulaar": "Wuurnu Lekki, Lekki Wuurnuma",
+  "hero_sub": "Bët ci yëgël yu xam-xam ci tëy ak dëkk ci kanam — loolu moy: ak yooyu jën, lekk ak dëkk ci ndox, ak recontir suuf — ak fu yëgël bi daay yóbbu nit ñu dee.",
+  "hero_meta_date": "Jëfandikoo Avril 2026",
+  "hero_meta_subjects": "Sujet yi: Nébéday · Lekk ci ndox · Azolla · Spirulina",
+  "hero_meta_context": "Kontekst: Dëkk yi ci Senegaal ci làkk Pulaar ak Wolof",
+  "hero_meta_cc": "CC BY-NC 4.0",
+  "toc_title": "Xël bu yokk",
+  "toc_items": [
+    "Jukël bu mag bi — lan Senegaal bu dëkk yi xam tey",
+    "Yooyu jën yu ñaar ak ñent — xam-xam, dëkk ak lekk",
+    "Fu xam-xam bi weesu — lañu dëgël bu bees ak lañu mëna def",
+    "Sisteem bu dëkku — naka yooyu bët yi ëmb ak yokku ci diggante",
+    "Ci fu dafa feeñ bi dafa toll bi — classé ak biir-am",
+    "Ci bu toll ak ci bu bës — loxo yi mën a daw ak yii"
+  ],
+  "part1_label": "Xëtu 1",
+  "part1_title": "Jukël bu Mag bi",
+  "part1_body1": "Senegaal bu dëkk yi — ci kanam ci wàcc yi ak ci digg, ak dëkk yi ci Kolda, Matam, Tambacounda ak Kaffrine — xam sama ci dara yëgël ci kaw. Taw bi dëk yi ngir loxobu Senegaal dafa weesu ci diggante yu xanaa. Li mu dëkku ak nit ñi dafa mëna wax: roughly 3% rekk ci tëgg ci keurgi ci sisteem bu jën ndox, ak du sax très deux million heectar yu mëna jefandiko ndox. Liggéey ak mbey dëkkante dëkk dëgg dafa moo dëgg — yaw moo bari, ak gis ak lekk, ak teknoloji, ak kirëm.",
+  "part1_body2": "Lan moo ko def feeñ ci biir yëgël bi ci dëkk yi, mooy: jukël bi du ci boppu xaalis — <em>jukël bu xam-xam</em> la. Ci sunu eco ak biyu yëg ci jukël yi ci sëgël ak ndox, xeeñ na fi rekk, soxor na, jëm na faux, walla jëfandiko na ci yoon bu bees. Neex na muy bëj feeñ.",
+  "callout_label_thesis": "Xël bu mag",
+  "callout_thesis": "« Fukki ñaar ci fukki juróom ak ñaar àll i yëngël Matam dañu sëgël — kàddu ak nébéday yi dañuy téere ci suuf wees, lépp des, xam-xamu jii du bari. Du jukël bu alxulaas. Mooy jukël bu xam-xam. »",
+  "failure_modes_intro": "Yooyu yoon yu dëk yi ci littérature ak rapports yi dañ wax:",
+  "failure_modes": [
+    "Lekk wi jëfandiko na ci yoon bu bees, mooy ci ko defar ci dëgg ak xibaar, dellusi na ci vitamines yi",
+    "Ndox bi jëfandiko na ak kër chimique yu cher walla yu amul ci natt, kañ coagulants naturels yi dañuy téere ci dëkk bi",
+    "Lekk mu jën yi jënd na ci marché, kañ organisms aquatiques yu bari protéines mën a defar ci bidon yi bu xanaa",
+    "Suuf bi dafa def ci mono-culture, kañ jën yu fixation azote yi gis na leen ci baari yi ci suuf",
+    "Agriculture yi xëj ci taw bi du ak bi dëkku rekk, kañ si retencion ndox ak culture yu rapad mën a jaay ñaari saison bu xanaa"
+  ],
+  "failure_modes_outro": "Yooyu ñent jën yi ci rapport bi dañu tontu ci yooyu ñaar ak juróom défauts, ndax timis ci ak digg.",
+  "part2_label": "Xëtu 2",
+  "part2_title": "Yooyu Ñaar ak Ñent Jën: Xëtu Yëgël",
+  "part2_intro": "Yooyu jën yi doñu topp parce que: (a) proven ci terrain ci Afrique, (b) mën a jëfandiko ak alxulaas bu yàgg, (c) lekk walla jaay ci agriculture ci ñaari walla ñetti ayub — du ci at yi, ak (d) yokk ci diggante ni dañu def ñaar ci système bi.",
+  "plants": {
+    "moringa": {
+      "name": "Moringa oleifera",
+      "local": "Nébéday (wolof) · Néböday (pulaar) · am na fi rekk ci Senegaal",
+      "stats": [
+        ["Protéines (toll bu sëkk)", "25–30%"],
+        ["Vitamines A (cuillère à soupe bi)", "~100% AJR xale yi"],
+        ["Diggante bi ak récolte bi", "~3 weer"],
+        ["Résistance bu tànk bi", "Dafa xam"],
+        ["Jëfandiko ndox", "Néew (dëgg bi dafa yaatu)"],
+        ["Tëgg ndox bi", "Waaw (fondre graines yi)"]
+      ]
+    },
+    "duckweed": {
+      "name": "Lemna / Wolffia spp.",
+      "local": "Lekk bu ndox — jën bu yomb ci ndox bu tanku [VERIFY WITH MIKE: no established Wolof name]",
+      "stats": [
+        ["Protéines (bu sëkk)", "35–45%"],
+        ["Doublement biomasse bi", "2–3 fan"],
+        ["Tëgg bi ci lépp", "Néew (ci surface ndox bi)"],
+        ["Tolerance eaux usées", "Dafa togg (bioremediation)"],
+        ["Lekk jën yi", "Dafa baax"],
+        ["Xam nit a lekk ko", "Asie du Sud-Est (Wolffia)"]
+      ]
+    },
+    "azolla": {
+      "name": "Azolla pinnata",
+      "local": "Jën bu ndox bu yomb — native Senegaal [VERIFY WITH MIKE: local name if any]",
+      "stats": [
+        ["Protéines (bu sëkk)", "25–30%"],
+        ["Doublement biomasse bi", "3–5 fan"],
+        ["Azote fixé", "40–120 kg N/ha/fan"],
+        ["Lekk engrais yi", "Dëkku azote synthétique"],
+        ["Lekk jën yi", "Dafa baax (kanaas, jën)"],
+        ["Dëgg ñiib yi", "Jusqu'à 90% larves"]
+      ]
+    },
+    "spirulina": {
+      "name": "Arthrospira platensis",
+      "local": "Spirulina — lekk bu xaxa ci Tchad [VERIFY WITH MIKE: local name if any]",
+      "stats": [
+        ["Protéines (bu sëkk)", "55–70%"],
+        ["Vitamines B12", "Ci rafet yi bu rare ci yën ji"],
+        ["Complexité installation", "Moyenne (pH control)"],
+        ["Récolte bi", "Fan bu toll"],
+        ["Besoin soleil", "Dafa xam (Sahel compatible)"],
+        ["Réduction coûts", "60–70%"]
+      ]
+    }
+  },
+  "moringa_title": "Nébéday: Jën bi am na fi rekk",
+  "moringa_body1": "Mooy xarala bi dafa gaaw. Nébéday dafa téere ci Senegaal. Jëfandikoo na ko ak lekk bi ci kanam ONG yi — waaye jëfandiko na ko ci yoon bu bees. Préparation bu xam dëkk bi mooy ko dëkk ci ndox bu tang dooble walla ñenteel yu ay, ak joxal ko ndox bi ci kanam. Yoon boobu dafa dem vitamines A yi ak bari ak bari ak protéines yi.",
+  "moringa_body2": "Poudre yi ci toll yi ci nébéday — bu séchage à l'ombre la — dafa sëmb vitamines A 50 ci 70%, ak mën a yokk ci sauce wala ci thiéboudiène bu bees ak ak bees.",
+  "moringa_body3": "Graines yi mooy ressource bu bari ak bu soxoroon. Poudre yi ci graines bi, bu añ ko ci ndox bu trouble, dafa def coagulant naturel. Protéines yi ci graines yi dañu toog ak particules yi — argile, bactéries, toxines — ak joxal leen floculer ak décanter. Études yi wax: 90 ci 99% impuretés bi dem. Du ko seul, waaye ak SODIS — joxal ndox ci bouteilles plastique ci soleil bi 6 heures — dëgg na ndox bu baax ci keur yi ak alxulaas.",
+  "video_moringa_title": "Naka lañu tëgg nébéday (vidéo)",
+  "video_moringa_caption": "Démonstration bu intensive ci tëgg nébéday ngir bari toll yi.",
+  "video_moringa_print": "Vidéo: Tëgg nébéday — https://youtube.com/shorts/Ofs5fgws18k",
+  "duckweed_title": "Lekk bu ndox: Usine bu gaaw ci protéines yi ci aduna",
+  "duckweed_body1": "Lekk bu ndox bi dafa double biomasse am ci 2–3 fan ci yooyu yoon. Protéines am ci ko — 35 ci 45% bu sëkk — dafa xëy soja (36%) ak dëkk ci légumineuses yi. Espèce bi bu baax ngir nit a lekk ko mooy Wolffia, lekk na fi ci Asie ci génération bari yi. Ci Afrique ci Ouest, application bu gaaw mooy ci lekk jën yi ak kanaas yi — mën a def ko substitut bi ci lekk bu jend.",
+  "duckweed_body2": "Lekk bu ndox bi dafa def deuxième fonction: bioremediation bi, dëgg na 85% azote ak phosphates yi ci eaux usées. Ndox bi jeex ci ko dafa set ak mën a dellu ci cycle irrigation bi.",
+  "azolla_title": "Azolla: Engrais bu free ak bonus bi",
+  "azolla_body1": "Azolla pinnata native na Afrique ak Senegaal. Am na fi rekk. Jukël bi mooy: farmers yi dañu xam ko ci baari yi. Symbiose am yi ak bactérie Anabaena azollae dafa ko jox moyen ci fixer azote atmosphérique — fonctionner na ci engrais vivant bi mën a remplacer azote synthétique ci rizières. Recherches yi ci Vallée du Fleuve Sénégal (Saint-Louis) dañu confirm feasibility bi.",
+  "azolla_body2": "Au-delà fertilisation bi, azolla fraîche am na 20 ci 30% protéines brutes. Éleveurs de volaille ci Rwanda ak Kenya jëfandikoo na ko ci lekk yi, ak wax séné bari réduction coûts. Installation bi dëgëj: bassin bu néew walla fosse revêtue (20 ci 60 cm), ndox bu set ak culture souche. Jën bi dafa double ci 3 ci 5 fan. Bonus: tapis azolla bi ci ndox bi dafa dëgg 90% larves ñiib yi — co-intervention gratuite ci paludisme.",
+  "spirulina_title": "Spirulina: Arme bu concentrée ci malnutrition sévère",
+  "spirulina_body1": "Spirulina mooy jën bi dafa toll dëkk ci yooyu ñar ak ñent. Ci 55 ci 70% protéines bu sëkk, ak vitamines B12, béta-carotène, fer ak acides gras essentiels, une cuillère à soupe fan bu toll dafa documented ci améliorations mesurables ci xale yi ci sëgël ci ñaari sem bees. Système Villageois Intégré ci Farende, Togo (1987) dañu demonstrate ko ci échelle communautaire — bassin 100m² dafa yokk lekk 100 xale fan bu toll.",
+  "spirulina_body2": "Spirulina dafa téchniquement plus difficile. pH 8.5–11, température 25–35°C — ci biir Sahel la — ak gestion contamination. Waaye, soleil bi ak température bi ci Sahel dañu ideal. Coûts mën a réduire 60 ci 70% ak ressources locales.",
+  "video_spirulina_title": "Naka lañu def spirulina ci dëkk bi (vidéo)",
+  "video_spirulina_caption": "Guide pratique ci production spirulina bu néew ci conditions tropicales.",
+  "video_spirulina_print": "Vidéo: Spirulina — https://youtu.be/S8xewXsM-lc",
+  "part3_label": "Xëtu 3",
+  "part3_title": "Carte yi ci Fu Xam-Xam Bi Weesu",
+  "part3_intro": "Mooy bilan précis bu ci lan lañu dëgël bu bees ak lan science ak terrain yi wax lañu mëna def.",
+  "table_headers": ["Domaine", "Inéfficacité bi ci kanam", "Lan lañu mëna def"],
+  "table_rows": [
+    [
+      "Préparation nébéday",
+      "Dëkk toll yi ci ndox bu tang ñaarel walla ñenteel yu ay, joxal ndox bi. Dëkku 60–80% vitamines A. Toll yi frais jëfandiko na rekk ci bi am na.",
+      "Sécher toll yi ci ombre, foñ ko, yokk ci sauce yi. Sëmb 50–70% vitamines A. Une cuillère à soupe dafa déf ~100% AJR vitamines A ci xale bi."
+    ],
+    [
+      "Méthode séchage nébéday",
+      "Séchage ci soleil bi pratique courante. Dëkku vitamines A ak UV.",
+      "Séchage ci ombre ci yenn dafa sëmb 50–70% ak 20–40% ci soleil bi. Alxulaas bu bees rekk. Ombre rekk la."
+    ],
+    [
+      "Jëfandiko graines nébéday",
+      "Graines yi dañu jëm walla jox. Jën bi jëfandiko na ci brise-vent walla toll rekk.",
+      "Poudre graines bi dëgg 1 litre ndox bu trouble ak ~2 graines. Ak SODIS, ndox bu baax — alxulaas."
+    ],
+    [
+      "Tëgg ndox bi",
+      "Ndox ci ndëg walla puits bi di naan ak traitement. Walla alum bu cher jëfandiko na. Maladies ci ndox mooy cause bu mag ci malnutrition.",
+      "Coagulation nébéday graines + SODIS am na ci lépp, alxulaas bu yàgg. Xam-xam ak 6 heures soleil rekk."
+    ],
+    [
+      "Culture nébéday",
+      "Jën yi tëgg ci yoon bu bees, espacement bu mag ci ombrage. Récolte graines rekk.",
+      "Culture intensive (50 cm espacement) dafa jaay bari toll yi ci jën yi ci moins d'un mètre. 4 ci 8 fois bari biomasse foliaire ci m²."
+    ],
+    [
+      "Azolla — xam-xam bi",
+      "A. pinnata native ak am na, xam na ko ci baari rekk. Du intégré ci aucun pratique.",
+      "Bassin bi (fosse revêtue, 20–60 cm) dafa yaay lekk bu riche en protéines fan bu toll. Double ci 3–5 fan. Fixe azote ci ndox ci irrigation."
+    ],
+    [
+      "Intrants riziculture",
+      "Engrais azoté (DAP) jënd na ak jëfandiko na. Dëkku xaalis ak chaîne approvisionnement.",
+      "Culture intercalaire azolla ci rizières (Saint-Louis dañu confirm) dafa remplace azote synthétique, maintient rendements comparables."
+    ],
+    [
+      "Coûts lekk jën yi",
+      "Aliments commerciaux jënd na. Dëkku cher, dëkku lekk jën yi bu baax, réduction production.",
+      "Bassins lekk ci ndox + azolla ci benn ndox walla conteneur mën a remplacer 30 ci 80% aliments. Coût: feuille plastique ak conteneur."
+    ],
+    [
+      "Triage malnutrition xale yi",
+      "Malnutrition sévère traitée ci centres de santé ak aliments thérapeutiques importés.",
+      "Production spirulina ci échelle villageoise (100 m² bassin dafa yokk lekk 100 xale/fan) prouvé ci Togo, Burkina Faso, Mali."
+    ],
+    [
+      "Dégradation suuf bi",
+      "Mono-culture dafa dëgël suuf bi. Jachère, brûlage résidus ak engrais chimiques mooy réponses.",
+      "Dëgg nébéday dafa sëmb ndox ak améliore structure suuf. Azolla dafa enrichit suuf."
+    ],
+    [
+      "Lutte ñiib yi",
+      "Traitements chimiques, moustiquaires walla dara. Paludisme dafa yokku sensibilité ci malnutrition.",
+      "Tapis azolla ci ndox dafa dëgg 90% larves ñiib yi. Co-intervention gratuite ci paludisme."
+    ]
+  ],
+  "part4_label": "Xëtu 4",
+  "part4_title": "Système bu Dëkku",
+  "part4_intro": "Yooyu ñar ak ñent jën yi du interventions parallèles — dañu def système bi ci boucle fermée fu sortie bi dëkku mooy entrée bi bu jeeg. Mooy insight bi programmes ONG yi dañu rater ci ay introduire un seul jën ci adoona.",
+  "system_title": "Boucle fermée ci échelle bi ci dëkk bi",
+  "system_nodes": [
+    ["Nébéday", "Graines + Toll yi"],
+    ["Bassin ndox", "Ndox bu coagulé, soleil traité"],
+    ["Azolla/Lekk ndox", "Dafa jaay ci surface bi"],
+    ["Kanaas/Jën", "Lekk yi ci jën aquatiques"],
+    ["Eaux déjections", "Dellu ci bassin, lekk azolla"]
+  ],
+  "system_caption": "Azote fixé ci azolla bi dafa enrichit ndox irrigation ci jardins yi. Poudre nébéday yokk na ci repas yi ci jardins yoyu. Bassin spirulina dafay am ndox wees, récolté ci nutrition thérapeutique xale yi. Système bi dafay jëfandiko soleil, ndox ak toll yi.",
+  "part4_body": "Xël bu mag bi: ndox bi dafay connecteur bi. Benn source ndox bi — walla borehole walla mare saisonnière — mën a traité ak graines nébéday ci naan, azolla ak lekk ndox dafay jaay ci surface ci lekk jën yi, ak approvisionner bassin alcalin ci spirulina. Li dëgg ndox bu yokk, li bari système bi dafa yaaj. Ndox bi du weesu parce que lekk ndox ak azolla dañu couvrir mares yi, réduction évaporation bu mag.",
+  "part5_label": "Xëtu 5",
+  "part5_title": "Interventions Prioritaires",
+  "part5_intro": "Classées ci impact ci unité bu xam-xam. Yooyu trois bu kanam mën a implement ak guide illustré benn feuille ak démonstration.",
+  "priorities": [
+    {
+      "title": "Wéccal yoon bi naka lañu sécher ak stocker toll yi nébéday",
+      "body": "Mooy changement bu bari ci effet de levier ak alxulaas bu yokk. Dafa dëgg nit ñu gëna xam: dëkku séchage ci soleil, tambali séchage ci ombre. Benn carte illustrée mën a triple impact nutritionnel bi ci jën bi ci waaxi fi. Cible: keur gu am nébéday. Outil: benn affiche illustrée ci wolof/pulaar bi wax séchage soleil vs ombre ak différence vitamines A."
+    },
+    {
+      "title": "Introduire traitement ndox ak nébéday graines + SODIS ci keur",
+      "body": "Maladies ci ndox mooy cause bu mag ci malnutrition (intestins → malabsorption vitamines). Poudre graines nébéday + SODIS du médicament, du infrastructure, ak alxulaas bu yokk. Démonstration ak bocal ndox bu trouble dafa suffit ci wéccal comportements. Dëgg 60–85% bactéries coliformes ci traitement bu kanam."
+    },
+    {
+      "title": "Wéccal azolla ci 'baari' ci 'atout' ak pilote bi ci conteneur",
+      "body": "A. pinnata native ak am na ci Senegaal. Dëkk gu am ndox am na ko ci kanam. Intervention bi dëgëj: fosse revêtue walla grand conteneur (bidon recyclé, bassine, trou revêtu bâche), ndox ak culture souche. Ci 3 ci 5 fan, récolte bi dégëj ngir kanaas yi. Parcelle démonstration ci école walla poste de santé mooy point d'entrée éprouvé."
+    },
+    {
+      "title": "Introduire technique culture intensive nébéday ci producteurs yi ci waaxi fi",
+      "body": "Bari nébéday jaay na ci ombrage ak espacement 2–3 m. Production toll yi dëgëj espacement 50 cm ak taille jën yi ci moins 1 mètre. FIMOSEN ak Counterpart International dañu démontrer ko ci Kolda ak Ziguinchor. Différence rendement dafa bari: 4 ci 8 fois bari biomasse foliaire ci m²."
+    },
+    {
+      "title": "Deploy bassins lekk ndox ci lekk jën yi ci opérations tilapia yi ci waaxi fi",
+      "body": "Lekk ndox mën a remplacer partiellement walla totalement aliments commerciaux chers ci jën yi. Jaay na ci surface wees ci jën yi, double 2–3 fan, récolté ak jox frais. Mooy fermer boucle protéines ci alxulaas bu yàgg."
+    },
+    {
+      "title": "Etablir bassin communautaire spirulina ci postes de santé yi ngir nutrition thérapeutique xale yi",
+      "body": "Mooy bu gaaw complexe bu ñaari ak juróom, waaye mooy outil bu baax ci malnutrition sévère. Bassin 100 m² géré ci groupements féminins mën a yokk lekk 100 xale fan bu toll. Dëgëj surveillance pH, thermomètre, ak séchage à l'ombre. Agents de santé dañu dëgëj formateurs yi ak canal distribution bi."
+    }
+  ],
+  "part6_label": "Xëtu 6",
+  "part6_title": "Risques ak Sëgël Honnêtes",
+  "tech_risks_title": "Risques techniques",
+  "tech_risks": [
+    "<strong>Traitement ndox ak nébéday graines du solution complète seul.</strong> Poudre graines dafa réduit turbidité ak bactéries, waaye ndox bi dëgg dëkku OMS ci pathogènes. Mooy traitement bu kanam dëgëj SODIS ci étape bi ci kanam. Bul wax ko yoon bi ci purification seul.",
+    "<strong>Risque contamination spirulina.</strong> Produits commerciaux spirulina dañu montré traces cyanotoxines. Spirulina villageoise ci souche bu xam (Arthrospira platensis, du cyanobactéries sauvages) ci conditions contrôlées dafa set, waaye contrôle qualité dafa important. Bul encourage récolte sauvage ci ndox naturels ak vérification souche.",
+    "<strong>Azolla ci Sahel dafa xam stress chaleur bu yokk.</strong> Projections climatiques wax Sahel du moins adapté ngir azolla ci 2050. Saison fraîche (Décembre ci Mai) mooy meilleur moment ci constituer stocks kulturaux bu mag.",
+    "<strong>Lekk ndox mën a supplanter jën aquatiques yi si amul confinement.</strong> Culture dëgëj ci bassins confinés walla sections délimitées. Lekk ndox ci eau libre ak gestion mën a bloquer lumière ak dégrader écosystèmes."
+  ],
+  "social_risks_title": "Risques sociaux ak comportementaux",
+  "social_risks": [
+    "<strong>Culture alimentaire dafa xam ci baat.</strong> Thiéboudiène dafa jëfandiko presque fan bu toll. Interventions yi ci dem yokk ingrédient bii dañu bari réussir ci yooyu yi ci dem nit a lekk benn yu bees. Poudre nébéday ci sauces, du salade nébéday, mooy cadrage bu baax. Validated na ci Peace Corps ci Kolda.",
+    "<strong>Jigéen yi dañu cible bu xam ci yëgël xam-xam, waaye dañu dëgg acteurs, du bénéficiaires.</strong> Groupements féminins ci Kolda, Vélingara ak Ziguinchor dañu démontré entreprises autonomes ci transformation nébéday. Modèle bi mooy groupements féminins ci adopter activités bi, du bénéficiaires ci recevoir supplémentation.",
+    "<strong>Diffusion xam-xam ak alxulaas valeur économique dafa ñëwël.</strong> Projets yi ci former communauté waaye du jox mécanisme revenu dañu arrêter ci kanam ONG bi dem. Chaque transfert xam-xam dëgëj mécanisme revenu bi: vente poudre nébéday, vente cultures azolla ci dëkk yi, production comprimés spirulina ci réseaux santé locaux."
+  ],
+  "callout_label_leverage": "Xël bu Effet de Levier",
+  "callout_leverage": "Goulot d'étranglement bi du graines, bassins walla main-d'œuvre. Mooy absence mécanisme yëgël xam-xam bu jàng ci làkk lokaal bi, bi wax naka changement bi dafa important ak précisément naka ko def.",
+  "leverage_body": "Organisations sénégalaises yi ci woomu ci espace boobu: FIMOSEN (Filière Moringa du Sénégal), CREATE! (campagnes plantation 2 500 jën/at), Counterpart International (programmes Matam) ak Corps de la Paix. Goulot d'étranglement bi du infrastructure — mooy diffusion latérale xam-xam ci échelle dëkk ci dëkk.",
+  "references_label": "Xam-xam yi ci kanam",
+  "references_title": "Références",
+  "footer_brand": "Dundal Ganthiakh",
+  "footer_sub": "Wuurnu Lekki, Lekki Wuurnuma",
+  "footer_note": "Recherche compilée Avril 2026 ngir conception programmes sécurité alimentaire ak ndox ci échelle villageoise. © Jesse Joel Rogers & Mike Ba — CC BY-NC 4.0"
+}
